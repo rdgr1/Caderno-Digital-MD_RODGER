@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "3d02d3f05cd117c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "79fc5c7dc8ecfa68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "881c9a7ce5ec6668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Operadores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8467ba91edd8dbb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "029fad33b59595c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e7e21f82ed6314",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4faee5fd8b57c67b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7216a17e505c412",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55d202907f627fb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "08234b3470759e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb85ffbec1f8f113",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - Operadores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ee88a10df580bdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 - Operadores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28de044acbc611c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57bfe36e313a0da4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Operadores.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota aleatória": false
+    }
+  },
+  "active": "17e7e21f82ed6314",
+  "lastOpenFiles": [
+    "1 - Anatomia das Classes em Java.md",
+    "3 - Operadores.md",
+    "4 - Métodos.md",
+    "Java-Básico.canvas",
+    "2 - Tipos e Variáveis.md",
+    "2024-08-13.md",
+    "Sem título"
+  ]
+}
