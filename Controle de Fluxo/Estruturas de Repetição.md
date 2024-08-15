@@ -4,7 +4,7 @@ Laços ou repetições são representados pelas seguintes estruturas:
 - For (para)
 - While (enquanto)
 - Do While (faça enquanto)
-
+ 
 ## For 
 O comando **`for`** (na tradução literal para a língua portuguesa “para”) permite que uma variável contadora seja testada e incrementada a cada iteração, sendo essas informações definidas na chamada do comando. O comando for recebe como entrada uma variável contadora, a condição para continuar a execução e o valor de incrementação.
 
@@ -214,3 +214,5 @@ public static void main(String[] args) {
 	}
 }
 ```
+
+asiuyasdsoihyfeaoihysagrgoigresoihrewaoihrea9htrew 09 w0hwihu rewh0rewqh0 grew0h g5ew-9h 7q
