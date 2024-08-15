@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "79fc5c7dc8ecfa68",
+        "id": "d2435ce52d5fa5cf",
         "type": "tabs",
         "children": [
           {
-            "id": "881c9a7ce5ec6668",
+            "id": "d1d65ec6798cc20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Operadores.md",
+                "file": "Controle de Fluxo/Estruturas Condicionais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fda6657abdb6b4bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Controle de Fluxo/Estruturas de Repetição.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Operadores.md",
+                "file": "Controle de Fluxo/Estruturas de Repetição.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Operadores.md",
+                "file": "Controle de Fluxo/Estruturas de Repetição.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Operadores.md"
+                "file": "Controle de Fluxo/Estruturas de Repetição.md"
               }
             }
           }
@@ -147,14 +160,22 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "17e7e21f82ed6314",
+  "active": "fda6657abdb6b4bb",
   "lastOpenFiles": [
-    "1 - Anatomia das Classes em Java.md",
-    "3 - Operadores.md",
-    "4 - Métodos.md",
+    "Controle de Fluxo/Estruturas Condicionais.md",
+    "Controle de Fluxo/Estruturas de Repetição.md",
+    "Sintaxe Java/7 - Java Doc.md",
+    "Controle de Fluxo",
+    "Sintaxe Java/8 - Terminal e Argumentos.md",
+    "Sintaxe Java/2 - Tipos e Variáveis.md",
+    "Sintaxe Java/1 - Anatomia das Classes em Java.md",
+    "Sintaxe Java/desafio - Simulando Uma Conta Bancária.md",
+    "Sintaxe Java",
     "Java-Básico.canvas",
-    "2 - Tipos e Variáveis.md",
-    "2024-08-13.md",
-    "Sem título"
+    "Sintaxe Java/6 - Palavras Reservadas.md",
+    "Sintaxe Java/5 - Escopo.md",
+    "Sintaxe Java/3 - Operadores.md",
+    "Sintaxe Java/4 - Métodos.md",
+    "2024-08-13.md"
   ]
 }
