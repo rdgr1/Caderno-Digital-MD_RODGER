@@ -1,4 +1,4 @@
-A **Estrutura Condicional**possibilita a escolha de um grupo de ações e comportamentos a serem executadas quando determinadas condições são ou não satisfeitas. A Estrutura Condicional podem ser **Simples** ou **Composta.**
+A **Estrutura Condicional** possibilita a escolha de um grupo de ações e comportamentos a serem executadas quando determinadas condições são ou não satisfeitas. A Estrutura Condicional podem ser **Simples** ou **Composta.**
 
 ### Condicionais Simples
 

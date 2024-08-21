@@ -1,6 +1,9 @@
 {
-  "cssTheme": "Things",
-  "accentColor": "#16074b",
+  "cssTheme": "Tokyo Night",
+  "accentColor": "#14b0d0",
   "interfaceFontFamily": "SF Mono",
-  "textFontFamily": "SF Pro Display"
+  "textFontFamily": "SF Pro Display",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
 }

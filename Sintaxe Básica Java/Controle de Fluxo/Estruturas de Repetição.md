@@ -102,13 +102,13 @@ public static void main(String[] args) {
 }
 ```
 
-1. `   String aluno : alunos` -> De forma abreviada é criada uma variável `nome` obtendo um elemento do vetor a cada ocorrência.
+1. `String aluno : alunos` -> De forma abreviada é criada uma variável `nome` obtendo um elemento do vetor a cada ocorrência.
     
 2. A impressão de cada aluno é realizada.
 
 ## Break e Continue
 
-**Break** significa quebrar, parar, frear, interromper. E é isso que se faz quando o Java encontra esse comando pela frente. **Continue**, como o nome diz, ele 'continua' o laço. O comando `**break**` interrompe o laço, já o `**continue**` interrompe somente a iteração atual.3
+**Break** significa quebrar, parar, frear, interromper. E é isso que se faz quando o Java encontra esse comando pela frente. **Continue**, como o nome diz, ele continua o laço. O comando `break` interrompe o laço, já o `continue` interrompe somente a iteração atual.3
 
 ```java
 // class ExemploBreakContinue.java
@@ -124,7 +124,7 @@ public class ExemploBreakContinue {
 	}
 	//Qual a saída no console ?
 
-    }
+ }
 }
 ```
 
@@ -143,6 +143,7 @@ while (expressão booleana de validação)
 ```
 
 Joãozinho recebeu R$ 50,00 de mesada e foi em uma loja de doces gastar todo o seu dinheiro, logo, enquanto o valor dos doces não igualar a R$ 50,00 ele foi adicionando itens no carrinho.
+
 ```java
 // ExemploWhile.java
 import java.util.concurrent.ThreadLocalRandom;
@@ -176,6 +177,7 @@ public static void main(String[] args) {
 O laço `do / while` (na tradução literal para a língua portuguesa “faça…enquanto”), assim como o laço while, considera que enquanto uma determinada condição for válida o bloco de código será executado. Entretanto, `do / while` testa a condição após executar o código,sendo assim, mesmo que a condição seja considerada inválida no primeiro teste o bloco será executado pelo menos uma vez.
 
 A estrutura de sintaxe do controle de repetição `do / while` é exibida abaixo:
+
 ```java
 //estrutura do controle de fluxo do while
 
@@ -214,5 +216,3 @@ public static void main(String[] args) {
 	}
 }
 ```
-
-asiuyasdsoihyfeaoihysagrgoigresoihrewaoihrea9htrew 09 w0hwihu rewh0rewqh0 grew0h g5ew-9h 7q

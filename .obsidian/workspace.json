@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d2435ce52d5fa5cf",
+        "id": "73f317bfcf0e8621",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d65ec6798cc20f",
+            "id": "99616c5f9892ae8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Controle de Fluxo/Estruturas Condicionais.md",
+                "file": "Progamação Orientada a Objetos/Fundamentos da POO com Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fda6657abdb6b4bb",
+            "id": "0def54e3447aba6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Controle de Fluxo/Estruturas de Repetição.md",
+                "file": "Sintaxe Básica Java/Debugging Java/Debug Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Controle de Fluxo/Estruturas de Repetição.md",
+                "file": "Progamação Orientada a Objetos/Fundamentos da POO com Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Controle de Fluxo/Estruturas de Repetição.md",
+                "file": "Progamação Orientada a Objetos/Fundamentos da POO com Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +137,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Controle de Fluxo/Estruturas de Repetição.md"
+                "file": "Progamação Orientada a Objetos/Fundamentos da POO com Java.md"
               }
             }
+          },
+          {
+            "id": "849f81cc6263cc18",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "57c366877eefee78",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -157,25 +173,49 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "random-note:Abrir nota aleatória": false
+      "random-note:Abrir nota aleatória": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fda6657abdb6b4bb",
+  "active": "99616c5f9892ae8b",
   "lastOpenFiles": [
-    "Controle de Fluxo/Estruturas Condicionais.md",
-    "Controle de Fluxo/Estruturas de Repetição.md",
-    "Sintaxe Java/7 - Java Doc.md",
-    "Controle de Fluxo",
-    "Sintaxe Java/8 - Terminal e Argumentos.md",
-    "Sintaxe Java/2 - Tipos e Variáveis.md",
-    "Sintaxe Java/1 - Anatomia das Classes em Java.md",
-    "Sintaxe Java/desafio - Simulando Uma Conta Bancária.md",
-    "Sintaxe Java",
-    "Java-Básico.canvas",
-    "Sintaxe Java/6 - Palavras Reservadas.md",
-    "Sintaxe Java/5 - Escopo.md",
-    "Sintaxe Java/3 - Operadores.md",
-    "Sintaxe Java/4 - Métodos.md",
-    "2024-08-13.md"
+    "Desafios/Controle de Fluxo - Desafio.md",
+    "Sintaxe Básica Java/Debugging Java/Debug Java.md",
+    "Sintaxe Básica Java/Sintaxe Java/2 - Tipos e Variáveis.md",
+    "Progamação Orientada a Objetos/Fundamentos da POO com Java.md",
+    "Sintaxe Básica Java/Sintaxe Java/7 - Java Doc.md",
+    "Progamação Orientada a Objetos",
+    "Desafios",
+    "System of Validation.md",
+    "Sintaxe Básica Java/Sintaxe Java/3 - Operadores.md",
+    "Sintaxe Básica Java/Controle de Fluxo/Estruturas de Repetição.md",
+    "Sintaxe Básica Java/Controle de Fluxo/Estruturas Condicionais.md",
+    "Sintaxe Básica Java/Controle de Fluxo/Estruturas Excepcionais.md",
+    "Sintaxe Básica Java/Sintaxe Java/5 - Escopo.md",
+    "Sintaxe Básica Java/Sintaxe Java/4 - Métodos.md",
+    "Sintaxe Básica Java/Sintaxe Java/6 - Palavras Reservadas.md",
+    "Sintaxe Básica Java/Sintaxe Java/1 - Anatomia das Classes em Java.md",
+    "Sintaxe Básica Java/Sintaxe Java/8 - Terminal e Argumentos.md",
+    "Sintaxe Básica Java/Sintaxe Java/desafio - Simulando Uma Conta Bancária.md",
+    "Sintaxe Básica Java",
+    "Sintaxe Básica Java/Debugging Java",
+    "2024-08-15.md",
+    "Sintaxe Básica Java/Sintaxe Java",
+    "Sintaxe Básica Java/Controle de Fluxo",
+    "Objetivos e Metas.md",
+    "Cronograma de Estudos/Cronograma.md",
+    "Cronograma de Estudos/Kanban sem título.md",
+    "Kanban sem título.md",
+    "Cronograma de Estudos",
+    "Objetivos e Metas",
+    "Caderno de Estudos",
+    "Faculdade",
+    "Notes/3. Literatura/Controle de Fluxo/Estruturas de Repetição.md",
+    "Notes/3. Literatura/Controle de Fluxo/Estruturas Condicionais.md",
+    "Notes/3. Literatura/Sintaxe Java/7 - Java Doc.md",
+    "Notes/3. Literatura/Sintaxe Java/8 - Terminal e Argumentos.md",
+    "Notes/3. Literatura/Sintaxe Java/2 - Tipos e Variáveis.md",
+    "Java-Básico.canvas"
   ]
 }
