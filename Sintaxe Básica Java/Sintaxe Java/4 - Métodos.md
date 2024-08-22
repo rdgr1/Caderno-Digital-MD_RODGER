@@ -43,3 +43,4 @@ public class Exemplo {
 		System.out.println(mensagem);
 	}
 ```
+[[5 - Escopo]]

@@ -73,3 +73,4 @@ public class ClasseExterna{
 }
 ```
 **Descrição:** Classes definidas dentro de outra classe. Podem ser internas(têm acesso à instância da classe externa) ou estáticas (não tem acesso implicíto à instância da casse externa).
+[[2 - Tipos e Variáveis]]
