@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9554535bb3eb50bc",
+        "id": "09947ccd0fd46d5a",
         "type": "tabs",
         "children": [
           {
-            "id": "cade107065743669",
+            "id": "98894ae571c2ce1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desafios/Controle de Fluxo - Desafio.md",
+                "file": "AutomaçãoPython/Fluxo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "733d44c3d4c6c456",
+            "id": "d4d9e4d8fd7364b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desafios/Controle de Fluxo - Desafio.md",
+                "file": "AutomaçãoPython/Fluxo.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Q2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desafios/Controle de Fluxo - Desafio.md",
+                "file": "AutomaçãoPython/Fluxo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desafios/Controle de Fluxo - Desafio.md",
+                "file": "AutomaçãoPython/Fluxo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desafios/Controle de Fluxo - Desafio.md"
+                "file": "AutomaçãoPython/Fluxo.md"
               }
             }
           },
@@ -168,21 +168,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "random-note:Abrir nota aleatória": false,
-      "obsidian-kanban:Criar um novo quadro": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "733d44c3d4c6c456",
+  "active": "17e7e21f82ed6314",
   "lastOpenFiles": [
-    "Desafios/POO - Desafio.md",
+    "AutomaçãoPython/PDF.md",
+    "AutomaçãoPython/Fluxo.md",
     "Desafios/Controle de Fluxo - Desafio.md",
+    "AutomaçãoPython",
+    "Desafios/POO - Desafio.md",
     "Desafios/Simulando Uma Conta Bancária.md",
     "Progamação Orientada a Objetos/Pilares da Progamação Orientada a Objetos em Java.md",
     "Sintaxe Básica Java/Controle de Fluxo/Estruturas Condicionais.md",
@@ -215,9 +218,6 @@
     "Kanban sem título.md",
     "Cronograma de Estudos",
     "Objetivos e Metas",
-    "Caderno de Estudos",
-    "Notes/3. Literatura/Controle de Fluxo/Estruturas de Repetição.md",
-    "Notes/3. Literatura/Controle de Fluxo/Estruturas Condicionais.md",
     "Java-Básico.canvas"
   ]
 }
