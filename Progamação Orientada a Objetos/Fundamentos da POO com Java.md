@@ -30,7 +30,7 @@ Algumas convenções, as nossas classes são classificadas como:
 
 - **Classe utilitária (util)**: classe que contém recursos comuns à toda nossa aplicação.
 
-![[Pasted image 20240822133124.png]]
+![[Java Spring Container Detais.png]]
 
 ## Pacotes 
 
