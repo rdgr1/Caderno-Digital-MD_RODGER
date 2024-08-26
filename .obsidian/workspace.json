@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc17e72bf12ef637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work Planning Swagger.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work Planning Swagger.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work Planning Swagger.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -178,10 +190,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e38c08f40a74cd7c",
+  "active": "bc17e72bf12ef637",
   "lastOpenFiles": [
-    "Kanban sem título.md",
     "Work Planning Swagger.md",
+    "conflict-files-obsidian-git.md",
+    "Imagens/link.md",
+    "AutomaçãoPython/PDF.md",
+    "AutomaçãoPython/Fluxo.md",
+    "AutomaçãoPython",
+    "Kanban sem título.md",
     "Desafios/POO - Desafio.md",
     "Desafios/Controle de Fluxo - Desafio.md",
     "Progamação Orientada a Objetos/Pilares da Progamação Orientada a Objetos em Java.md",
@@ -210,13 +227,8 @@
     "2024-08-15.md",
     "Sintaxe Básica Java/Sintaxe Java",
     "Sintaxe Básica Java/Controle de Fluxo",
-    "Objetivos e Metas.md",
-    "Cronograma de Estudos/Cronograma.md",
-    "Cronograma de Estudos/Kanban sem título.md",
     "Cronograma de Estudos",
     "Objetivos e Metas",
-    "Caderno de Estudos",
-    "Notes/3. Literatura/Controle de Fluxo/Estruturas de Repetição.md",
     "Java-Básico.canvas"
   ]
 }
