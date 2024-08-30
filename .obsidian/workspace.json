@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sintaxe Básica Java/Sintaxe Java/5 - Escopo.md",
+                "file": "AutomaçãoPython/PDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sintaxe Básica Java/Sintaxe Java/5 - Escopo.md",
+                "file": "AutomaçãoPython/PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sintaxe Básica Java/Sintaxe Java/5 - Escopo.md",
+                "file": "AutomaçãoPython/PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sintaxe Básica Java/Sintaxe Java/5 - Escopo.md"
+                "file": "AutomaçãoPython/PDF.md"
               }
             }
           },
@@ -167,20 +167,21 @@
   },
   "active": "e38c08f40a74cd7c",
   "lastOpenFiles": [
+    "AutomaçãoPython/Fluxo.md",
+    "AutomaçãoPython/PDF.md",
+    "HTML Para Visualização do Token No Email/Requisitos.md",
+    "Imagens/link.md",
+    "Java Collections/List.md",
+    "Sintaxe Básica Java/Sintaxe Java/5 - Escopo.md",
     "Work/Work Planning Swagger.md",
     "README.md",
     "Imagens/Pasted image 20240828175146.png",
     "Pasted image 20240828175127.png",
-    "HTML Para Visualização do Token No Email/Requisitos.md",
     "Imagens/JavaCollection.png",
     "Imagens/Java Spring Container Detais.png",
-    "Imagens/link.md",
     "Imagens/collection-framework-methods.png",
     "pjcp qklj xrah oqpp.md",
-    "AutomaçãoPython/PDF.md",
     "HTML Para Visualização do Token No Email",
-    "AutomaçãoPython/Fluxo.md",
-    "Java Collections/List.md",
     "Java Collections/Collection Framework API.md",
     "Java Collections",
     "README 1.md",
@@ -198,7 +199,6 @@
     "Sintaxe Básica Java/Sintaxe Java/8 - Terminal e Argumentos.md",
     "Sintaxe Básica Java/Sintaxe Java/7 - Java Doc.md",
     "Sintaxe Básica Java/Sintaxe Java/6 - Palavras Reservadas.md",
-    "Sintaxe Básica Java/Sintaxe Java/5 - Escopo.md",
     "Sintaxe Básica Java/Sintaxe Java/4 - Métodos.md",
     "Sintaxe Básica Java/Sintaxe Java/2 - Tipos e Variáveis.md",
     "Imagens",

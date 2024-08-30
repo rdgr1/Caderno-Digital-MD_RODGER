@@ -24,8 +24,8 @@
 - [x] Prototipação_ figma do **Formulário de Recebimento** do código.
 		![[Pasted image 20240828175146.png]]
 
-- [ ] Codificação_ da lógica de **Geração e Verificação** do código de exemplo.
-- [ ] Implementação_ do **HTML e CSS** baseado no prótotipo figma
+- [x] Codificação_ da lógica de **Geração e Verificação** do código de exemplo.
+- [x] Implementação_ do **HTML e CSS** baseado no prótotipo figma
 - [ ] Integração_ entre **Back e Front.**
 - [ ] Análise_ do **Resultado e Refinamento** do código com testes e ajustes.
 - [ ] Documentação e Entrega.
