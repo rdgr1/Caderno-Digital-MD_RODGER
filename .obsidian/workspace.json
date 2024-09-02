@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AutomaçãoPython/PDF.md",
+                "file": "AutomaçãoPython/Fluxo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AutomaçãoPython/PDF.md",
+                "file": "AutomaçãoPython/Fluxo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AutomaçãoPython/PDF.md",
+                "file": "AutomaçãoPython/Fluxo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AutomaçãoPython/PDF.md"
+                "file": "AutomaçãoPython/Fluxo.md"
               }
             }
           },
@@ -161,15 +161,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "random-note:Open random note": false
     }
   },
   "active": "e38c08f40a74cd7c",
   "lastOpenFiles": [
-    "AutomaçãoPython/Fluxo.md",
     "AutomaçãoPython/PDF.md",
+    "AutomaçãoPython/Fluxo.md",
     "HTML Para Visualização do Token No Email/Requisitos.md",
     "Imagens/link.md",
     "Java Collections/List.md",
