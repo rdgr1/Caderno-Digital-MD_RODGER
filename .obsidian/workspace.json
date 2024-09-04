@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AutomaçãoPython/Fluxo.md",
+                "file": "Sintaxe Básica Java/Controle de Fluxo/Estruturas Excepcionais.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AutomaçãoPython/Fluxo.md",
+                "file": "Sintaxe Básica Java/Controle de Fluxo/Estruturas Excepcionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AutomaçãoPython/Fluxo.md",
+                "file": "Sintaxe Básica Java/Controle de Fluxo/Estruturas Excepcionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AutomaçãoPython/Fluxo.md"
+                "file": "Sintaxe Básica Java/Controle de Fluxo/Estruturas Excepcionais.md"
               }
             }
           },
@@ -150,27 +150,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota aleatória": false
     }
   },
   "active": "e38c08f40a74cd7c",
   "lastOpenFiles": [
-    "AutomaçãoPython/PDF.md",
-    "AutomaçãoPython/Fluxo.md",
-    "HTML Para Visualização do Token No Email/Requisitos.md",
-    "Imagens/link.md",
+    "Sintaxe Básica Java/Controle de Fluxo/Estruturas de Repetição.md",
     "Java Collections/List.md",
+    "Java Collections/Collection Framework API.md",
+    "AutomaçãoPython/Fluxo.md",
+    "AutomaçãoPython/PDF.md",
+    "Desafios/Controle de Fluxo - Desafio.md",
+    "HTML Para Visualização do Token No Email/HTML.md",
+    "HTML Para Visualização do Token No Email/Requisitos.md",
+    "Sem título",
+    "Imagens/link.md",
     "Sintaxe Básica Java/Sintaxe Java/5 - Escopo.md",
     "Work/Work Planning Swagger.md",
     "README.md",
@@ -181,7 +185,6 @@
     "Imagens/collection-framework-methods.png",
     "pjcp qklj xrah oqpp.md",
     "HTML Para Visualização do Token No Email",
-    "Java Collections/Collection Framework API.md",
     "Java Collections",
     "README 1.md",
     "Work",
@@ -189,7 +192,6 @@
     "conflict-files-obsidian-git.md",
     "AutomaçãoPython",
     "Desafios/POO - Desafio.md",
-    "Desafios/Controle de Fluxo - Desafio.md",
     "Progamação Orientada a Objetos/Pilares da Progamação Orientada a Objetos em Java.md",
     "Desafios/Simulando Uma Conta Bancária.md",
     "Progamação Orientada a Objetos/Fundamentos da POO com Java.md",
@@ -199,13 +201,11 @@
     "Sintaxe Básica Java/Sintaxe Java/7 - Java Doc.md",
     "Sintaxe Básica Java/Sintaxe Java/6 - Palavras Reservadas.md",
     "Sintaxe Básica Java/Sintaxe Java/4 - Métodos.md",
-    "Sintaxe Básica Java/Sintaxe Java/2 - Tipos e Variáveis.md",
     "Imagens",
     "Progamação Orientada a Objetos",
     "Desafios",
     "Sintaxe Básica Java",
     "Sintaxe Básica Java/Debugging Java",
-    "Sintaxe Básica Java/Sintaxe Java",
     "Java-Básico.canvas"
   ]
 }
