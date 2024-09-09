@@ -149,3 +149,26 @@ class CompararAnoAutorTitulo implements Comparator<Livro> {
 	}
 }
 ```
+
+`Comparable` e `Comparator` são interfaces em Java usadas para ordenar objetos.
+
+- **`Comparable`**: É usada para definir a ordem natural dos objetos de uma classe. A classe que implementa `Comparable` deve sobrescrever o método `compareTo()`, que compara o objeto atual com outro do mesmo tipo. Isso é útil para ordenar listas ou coleções usando a ordem padrão.
+
+  ```java
+  public class Produto implements Comparable<Produto> {
+      private int preco;
+
+      @Override
+      public int compareTo(Produto outro) {
+          return Integer.compare(this.preco, outro.preco);
+      }
+  }
+  ```
+
+- **`Comparator`**: É usada quando você precisa definir múltiplas formas de ordenar objetos, ou seja, personalizar a ordenação sem modificar a classe original. Implementa o método `compare()`, que compara dois objetos distintos.
+
+  ```java
+  Comparator<Produto> comparatorPorNome = (p1, p2) -> p1.getNome().compareTo(p2.getNome());
+  ```
+
+**Diferença principal**: `Comparable` é implementada pela própria classe e define uma única ordem natural, enquanto `Comparator` permite múltiplas ordenações, separadas da classe dos objetos.

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Collections/Search.md",
+                "file": "Java Collections/Collection Framework API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1df1682251437185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Collections/Map.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Collections/Search.md",
+                "file": "Java Collections/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Collections/Search.md",
+                "file": "Java Collections/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Collections/Search.md"
+                "file": "Java Collections/Map.md"
               }
             }
           },
@@ -155,11 +168,14 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "9937c85bb37f33b5",
+  "active": "1df1682251437185",
   "lastOpenFiles": [
-    "Java Collections/List.md",
+    "Java Collections/Set.md",
+    "Java Collections/Map.md",
     "Java Collections/Search.md",
+    "Java Collections/List.md",
     "Java Collections/Collection Framework API.md",
+    "Sintaxe Básica Java/Controle de Fluxo/Estruturas Condicionais.md",
     "Sintaxe Básica Java/Sintaxe Java/3 - Operadores.md",
     "Diário",
     "2024-09-05.md",
@@ -190,9 +206,6 @@
     "AutomaçãoPython",
     "Desafios/POO - Desafio.md",
     "Progamação Orientada a Objetos/Pilares da Progamação Orientada a Objetos em Java.md",
-    "Desafios/Simulando Uma Conta Bancária.md",
-    "Progamação Orientada a Objetos/Fundamentos da POO com Java.md",
-    "Sintaxe Básica Java/Controle de Fluxo/Estruturas Condicionais.md",
     "Imagens",
     "Progamação Orientada a Objetos",
     "Desafios",

@@ -87,3 +87,122 @@ public static void main(String[] args){
 	
 }
 ```
+
+### Exemplos práticos de como usar pesquisa em list no [[List]]
+
+- 1 - Criando *Objeto* da nossa **Lista.**
+
+```java
+public class Livro{
+	private String titulo;
+	private String autor;
+	private anoDePublicacao;
+
+	public Livro(String titulo, String autor, int anoDePublicacao{
+		this.titulo = titulo;
+		this.autor = autor;
+		this.anoDePublicacao = anoDePublicacao;
+	}
+	public String getTitulo(){
+		return titulo;
+	}
+	public String getAutor(){
+		return autor;
+	} 
+	public int getAnoDePublicacao(){
+		return anoDePublicacao;
+	}
+}
+```
+
+### Criando Lista pra Manipular nossos Objetos:
+
+```java
+import java.util.ArrayLisy;
+import java.util.List;
+
+public class CatalogoLivros{
+	List<Livro> catalogoLivros;
+	public CatalogoLivros{
+		this.catalogoLivros = new ArrayList<>();
+	}
+}
+```
+
+
+### Criando Métodos:
+
+`adicionarLivro`:
+
+```java
+public void adicionarLivro(String titulo, String autor, int anoDePublicacao){
+	this.catalogoLivros.add(new Livro(titulo,autor,anoDePublicacao))
+}
+```
+`pesquisarPorAutor`:
+
+```java
+public List<Livro> pesquisarPorAutor(String autor){
+	List<Livro> livrosPorAutor = new ArrayList<>();
+	if(!catalogoLivros.isEmpty()){
+		for(Livro l : catalogoLivros){
+			if(l.getAutor().equalsIgnoreCase(autor)){
+			livrosPorAutor.add(l);
+			}
+		}
+	}
+	return pesquisarPorAutor;
+}
+```
+
+`pesquisarPorIntervalosAnos`:
+
+```java
+public List<Livro> pesquisarPorIntervalosAnos(int anoDePublicacao){
+	List<Livro> livrosPorIntervalosAnos = new ArrayList<>();
+	if(!catalogoLivros.isEmpty()){
+		for(Livro l : catalogoLivros){
+			if(l.getAnoDePublicacao.equalsIgnoreCase(anoDePublicacao)){
+			livrosPorIntervalosAnos.add(l);
+			}
+		}
+	}
+	return livrosPorIntervalosAnos
+}
+```
+# Exercícios 
+
+## Fixando os Conhecimentos
+
+**Exercícios:**
+
+1. *Operações Básicas* com List
+2. *Pesquisa* em List
+3. *Ordenação* nas List
+
+### 1. Operações Básicas com List
+
+
+Crie uma classe chamada "CarrinhoDeCompras" que representa um carrinho de compras online. O carrinho deve ser implementado como uma lista de itens. Cada item é representado por uma classe chamada "Item" que possui atributos como nome, preço e quantidade. Implemente os seguintes métodos:
+
+- `adicionarItem(String nome, double preco, int quantidade)`: Adiciona um item ao carrinho com o nome, preço e quantidade especificados.
+- `removerItem(String nome)`: Remove um item do carrinho com base no seu nome.
+- `calcularValorTotal()`: Calcula e retorna o valor total do carrinho, levando em consideração o preço e a quantidade de cada item.
+- `exibirItens()`: Exibe todos os itens presentes no carrinho, mostrando seus nomes, preços e quantidades.
+
+### 2.  Pesquisa em List
+
+Crie uma classe chamada "SomaNumeros" que possui uma lista de números inteiros como atributo. Implemente os seguintes métodos:
+
+- `adicionarNumero(int numero)`: Adiciona um número à lista de números.
+- `calcularSoma()`: Calcula a soma de todos os números na lista e retorna o resultado.
+- `encontrarMaiorNumero()`: Encontra o maior número na lista e retorna o valor.
+- `encontrarMenorNumero()`: Encontra o menor número na lista e retorna o valor.
+
+### 3. Ordenação em List
+
+Crie uma classe chamada "OrdenacaoNumeros" que possui uma lista de números inteiros como atributo. Implemente os seguintes métodos:
+
+- `adicionarNumero(int numero)`: Adiciona um número à lista.
+- `ordenarAscendente()`: Ordena os números da lista em ordem ascendente usando a interface Comparable e a class Collections.
+- `ordenarDescendente()`: Ordena os números da lista em ordem descendente usando um Comparable e a class Collections.
