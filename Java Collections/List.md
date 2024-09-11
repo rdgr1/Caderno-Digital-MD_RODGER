@@ -1,3 +1,5 @@
+
+## List
 - A interface `List` é uma coleção ordenada que permite a inclusão de elementos duplicados.
 - É um dos tipos de coleção mais utilizados em Java, e as classes de implementação comuns são `ArrayList` e `LinkedList`.
 - A `List` se assemelha a uma matriz com comprimento dinâmico, permitindo adicionar ou remover elementos.

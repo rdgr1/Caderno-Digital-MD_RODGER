@@ -1,8 +1,6 @@
 [
   "readwise-official",
-  "obsidian-emoji-toolbar",
-  "obsidian-icon-folder",
-  "obsidian-kanban",
   "obsidian-style-settings",
-  "obsidian-icons-plugin"
+  "obsidian-minimal-settings",
+  "folder-note-plugin"
 ]
