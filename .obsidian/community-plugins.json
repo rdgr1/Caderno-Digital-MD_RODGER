@@ -2,5 +2,8 @@
   "readwise-official",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "obsidian-pandoc",
+  "3d-graph",
+  "obsidian-git"
 ]
