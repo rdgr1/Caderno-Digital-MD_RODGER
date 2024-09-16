@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "da9aca2a78385354",
+            "id": "0df643f4c8edb79b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StreamAPI Java/Functional Interfaces/Binary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee818ce8d99dc700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StreamAPI Java/Exercícios.md",
+                "file": "Sintaxe Básica Java/Sintaxe Básica Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StreamAPI Java/Exercícios.md",
+                "file": "Sintaxe Básica Java/Sintaxe Básica Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StreamAPI Java/Exercícios.md",
+                "file": "Sintaxe Básica Java/Sintaxe Básica Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StreamAPI Java/Exercícios.md"
+                "file": "Sintaxe Básica Java/Sintaxe Básica Java.md"
               }
             }
           },
@@ -176,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,35 +180,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee818ce8d99dc700",
+  "active": "0df643f4c8edb79b",
   "lastOpenFiles": [
-    "StreamAPI Java/Functional Interfaces/Binary.md",
-    "StreamAPI Java/Functional Interfaces/Suplier.md",
-    "StreamAPI Java/Functional Interfaces/Predicate.md",
-    "StreamAPI Java/Functional Interfaces/Consumer.md",
-    "StreamAPI Java/StreamAPI.md",
-    "StreamAPI Java/Exercícios.md",
-    "StreamAPI Java/Functional Interfaces/Function.md",
-    "StreamAPI Java/Functional Interfaces/Functional Interfaces.md",
     "StreamAPI Java/StreamAPI Java.md",
     "Work/Work.md",
+    "Sintaxe Básica Java/Sintaxe Java/9 - PrintF.md",
+    "Sintaxe Básica Java/Sintaxe Java/8 - Terminal e Argumentos.md",
+    "Sintaxe Básica Java/Sintaxe Java/Sintaxe Java.md",
+    "Sintaxe Básica Java/Sintaxe Básica Java.md",
+    "StreamAPI Java/Exercícios.md",
+    "StreamAPI Java/StreamAPI.md",
+    "StreamAPI Java/Functional Interfaces/Suplier.md",
+    "StreamAPI Java/Functional Interfaces/Function.md",
+    "StreamAPI Java/Functional Interfaces/Predicate.md",
+    "StreamAPI Java/Functional Interfaces/Functional Interfaces.md",
+    "StreamAPI Java/Functional Interfaces/Consumer.md",
+    "StreamAPI Java/Functional Interfaces/Binary.md",
+    "Sintaxe Básica Java/Sintaxe Java/3 - Operadores.md",
     "AutomaçãoPython/AutomaçãoPython.md",
     "Work/Work Planning Swagger.md",
     "Diário/Diário.md",
     "README.md",
-    "Sintaxe Básica Java/Sintaxe Básica Java.md",
     "Progamação Orientada a Objetos/Progamação Orientada a Objetos.md",
     "Java Collections/Java Collections.md",
     "Java Collections/Collection Framework API.md",
-    "Sintaxe Básica Java/Sintaxe Java/Sintaxe Java.md",
     "Sintaxe Básica Java/Debugging Java/Debugging Java.md",
     "Sintaxe Básica Java/Controle de Fluxo/Controle de Fluxo.md",
     "StreamAPI Java/Functional Interface.md",
     "StreamAPI Java/Functional Interfaces",
     "Java Collections/Exercícios OFF.md",
-    "AutomaçãoPython/Fluxo.md",
-    "Sintaxe Básica Java/Controle de Fluxo/Estruturas Condicionais.md",
-    "Sintaxe Básica Java/Controle de Fluxo/Estruturas Condicionais 1.md",
     "StreamAPI Java",
     "Diário",
     "Imagens/Pasted image 20240828175146.png",
