@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0e034b4f02fcff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sintaxe Básica Java/Sintaxe Básica Java.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sintaxe Básica Java/Sintaxe Básica Java.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sintaxe Básica Java/Sintaxe Básica Java.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,14 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df643f4c8edb79b",
+  "active": "d0e034b4f02fcff3",
   "lastOpenFiles": [
+    "Sintaxe Básica Java/Sintaxe Básica Java.md",
+    "conflict-files-obsidian-git.md",
     "StreamAPI Java/StreamAPI Java.md",
     "Work/Work.md",
     "Sintaxe Básica Java/Sintaxe Java/9 - PrintF.md",
     "Sintaxe Básica Java/Sintaxe Java/8 - Terminal e Argumentos.md",
     "Sintaxe Básica Java/Sintaxe Java/Sintaxe Java.md",
-    "Sintaxe Básica Java/Sintaxe Básica Java.md",
     "StreamAPI Java/Exercícios.md",
     "StreamAPI Java/StreamAPI.md",
     "StreamAPI Java/Functional Interfaces/Suplier.md",
@@ -208,7 +221,6 @@
     "Sintaxe Básica Java/Controle de Fluxo/Controle de Fluxo.md",
     "StreamAPI Java/Functional Interface.md",
     "StreamAPI Java/Functional Interfaces",
-    "Java Collections/Exercícios OFF.md",
     "StreamAPI Java",
     "Diário",
     "Imagens/Pasted image 20240828175146.png",
