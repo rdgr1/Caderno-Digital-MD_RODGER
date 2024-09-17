@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiApachemaven",
       "LiNetwork",
       "SiStreamrunners",
       "LiAppWindow",
-      "FarObjectGroup",
-      "LiCoffee"
+      "FarObjectGroup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,14 +33,27 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "AutomaçãoPython": "SiPython",
+  "AutomaçãoPython": {
+    "iconName": "SiPython",
+    "iconColor": "#fff829"
+  },
   "Desafios": "LiActivity",
   "Diário": "LiBookOpenText",
-  "HTML Para Visualização do Token No Email": "SiHtml5",
+  "HTML Para Visualização do Token No Email": {
+    "iconName": "SiHtml5",
+    "iconColor": "#292fd6"
+  },
   "Imagens": "LiImage",
-  "Java Collections": "LiCoffee",
+  "Java Collections": {
+    "iconName": "LiCoffee",
+    "iconColor": "#ffae00"
+  },
   "Progamação Orientada a Objetos": "FarObjectGroup",
   "Sintaxe Básica Java": "LiAppWindow",
   "StreamAPI Java": "SiStreamrunners",
-  "Work": "LiNetwork"
+  "Work": "LiNetwork",
+  "Maven": {
+    "iconName": "SiApachemaven",
+    "iconColor": "#ff0000"
+  }
 }

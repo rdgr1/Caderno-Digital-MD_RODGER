@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "003d4d92ab783c0e",
+        "id": "31d9ea9f14819da9",
         "type": "tabs",
         "children": [
           {
-            "id": "906d7ed7b0149a20",
+            "id": "af13c8d05a888275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StreamAPI Java/StreamAPI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0df643f4c8edb79b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sintaxe Básica Java/Sintaxe Básica Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0e034b4f02fcff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Maven/Maven.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Maven/Maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Maven/Maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Maven/Maven.md"
               }
             }
           },
@@ -192,12 +167,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0e034b4f02fcff3",
+  "active": "af13c8d05a888275",
   "lastOpenFiles": [
+    "Maven/POM, dependências e repositórios.md",
+    "Maven/Gerenciando Dependências.md",
+    "Maven/Maven.md",
+    "Work/Work.md",
+    "README.md",
+    "Desafios/Desafios.md",
+    "Diário/Diário.md",
+    "StreamAPI Java/StreamAPI Java.md",
+    "Maven",
     "Sintaxe Básica Java/Sintaxe Básica Java.md",
     "conflict-files-obsidian-git.md",
-    "StreamAPI Java/StreamAPI Java.md",
-    "Work/Work.md",
     "Sintaxe Básica Java/Sintaxe Java/9 - PrintF.md",
     "Sintaxe Básica Java/Sintaxe Java/8 - Terminal e Argumentos.md",
     "Sintaxe Básica Java/Sintaxe Java/Sintaxe Java.md",
@@ -212,14 +194,8 @@
     "Sintaxe Básica Java/Sintaxe Java/3 - Operadores.md",
     "AutomaçãoPython/AutomaçãoPython.md",
     "Work/Work Planning Swagger.md",
-    "Diário/Diário.md",
-    "README.md",
     "Progamação Orientada a Objetos/Progamação Orientada a Objetos.md",
     "Java Collections/Java Collections.md",
-    "Java Collections/Collection Framework API.md",
-    "Sintaxe Básica Java/Debugging Java/Debugging Java.md",
-    "Sintaxe Básica Java/Controle de Fluxo/Controle de Fluxo.md",
-    "StreamAPI Java/Functional Interface.md",
     "StreamAPI Java/Functional Interfaces",
     "StreamAPI Java",
     "Diário",
@@ -234,7 +210,6 @@
     "AutomaçãoPython",
     "Imagens",
     "Progamação Orientada a Objetos",
-    "Desafios",
     "Java-Básico.canvas"
   ]
 }
