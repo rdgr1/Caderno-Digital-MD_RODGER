@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +163,12 @@
       "command-palette:Abrir paleta de comandos": false,
       "random-note:Abrir nota aleatória": false,
       "3d-graph:3D Graph": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af13c8d05a888275",
+  "active": "17e7e21f82ed6314",
   "lastOpenFiles": [
     "Maven/POM, dependências e repositórios.md",
     "Maven/Gerenciando Dependências.md",
