@@ -68,3 +68,13 @@
 	<systemPath>${project.basedir}/libs/custom-dependency-1.3.2.jar</systemPath>
 </dependency>
 ```
+
+## Exclusão de dependências indesejadas
+```xml
+<exclusions>
+	<exclusion>
+	<groupId>org.hibernate</groupId>
+	<artifactId>hibernate-search-orm</artifactId>
+	</exclusion>
+</exclusions>
+```

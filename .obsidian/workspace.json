@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven/Maven.md",
+                "file": "Maven/POM, dependências e repositórios.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven/Maven.md",
+                "file": "Maven/POM, dependências e repositórios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven/Maven.md",
+                "file": "Maven/POM, dependências e repositórios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maven/Maven.md"
+                "file": "Maven/POM, dependências e repositórios.md"
               }
             }
           },
@@ -168,15 +168,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17e7e21f82ed6314",
+  "active": "af13c8d05a888275",
   "lastOpenFiles": [
+    "Imagens/Pasted image 20240918164718.png",
+    "Imagens/Pasted image 20240918164627.png",
     "Maven/POM, dependências e repositórios.md",
     "Maven/Gerenciando Dependências.md",
+    "Maven/Maven Build Lifecycle.md",
     "Maven/Maven.md",
-    "Work/Work.md",
-    "README.md",
+    "Teste de Software/Pirâmide de Testes.md",
+    "Teste de Software/Testes não funcionais.md",
+    "Teste de Software/Níveis e técnicas de teste.md",
+    "Imagens/Pasted image 20240918164322.png",
+    "Pasted image 20240918164251.png",
+    "Imagens/Pasted image 20240918164130.png",
+    "Imagens/Pasted image 20240918164019.png",
+    "AutomaçãoPython/AutomaçãoPython.md",
     "Desafios/Desafios.md",
     "Diário/Diário.md",
+    "Teste de Software/Definição e conceitos básicos.md",
+    "Teste de Software",
+    "Imagens/Pasted image 20240918135017.png",
+    "Work/Work.md",
+    "README.md",
     "StreamAPI Java/StreamAPI Java.md",
     "Maven",
     "Sintaxe Básica Java/Sintaxe Básica Java.md",
@@ -190,27 +204,17 @@
     "StreamAPI Java/Functional Interfaces/Function.md",
     "StreamAPI Java/Functional Interfaces/Predicate.md",
     "StreamAPI Java/Functional Interfaces/Functional Interfaces.md",
-    "StreamAPI Java/Functional Interfaces/Consumer.md",
-    "StreamAPI Java/Functional Interfaces/Binary.md",
-    "Sintaxe Básica Java/Sintaxe Java/3 - Operadores.md",
-    "AutomaçãoPython/AutomaçãoPython.md",
-    "Work/Work Planning Swagger.md",
-    "Progamação Orientada a Objetos/Progamação Orientada a Objetos.md",
-    "Java Collections/Java Collections.md",
     "StreamAPI Java/Functional Interfaces",
     "StreamAPI Java",
     "Diário",
     "Imagens/Pasted image 20240828175146.png",
     "Pasted image 20240828175127.png",
     "Imagens/JavaCollection.png",
-    "Imagens/Java Spring Container Detais.png",
-    "Imagens/collection-framework-methods.png",
     "HTML Para Visualização do Token No Email",
     "Java Collections",
     "Work",
     "AutomaçãoPython",
     "Imagens",
-    "Progamação Orientada a Objetos",
     "Java-Básico.canvas"
   ]
 }

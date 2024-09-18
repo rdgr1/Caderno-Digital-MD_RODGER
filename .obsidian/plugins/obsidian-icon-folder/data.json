@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiTestinglibrary",
       "SiApachemaven",
       "LiNetwork",
       "SiStreamrunners",
-      "LiAppWindow",
-      "FarObjectGroup"
+      "LiAppWindow"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,6 @@
   "Maven": {
     "iconName": "SiApachemaven",
     "iconColor": "#ff0000"
-  }
+  },
+  "Teste de Software": "SiTestinglibrary"
 }

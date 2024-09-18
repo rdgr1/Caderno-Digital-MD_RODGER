@@ -63,4 +63,3 @@
 - ``groupId``: É como se fosse o **id** da organização. Segue as regras de nomes de **pacote Java**
 - ``artifactId``: Nome do **projeto** em si 
 - *Version*: Número da **versão** que será *utilizada*
-- 
