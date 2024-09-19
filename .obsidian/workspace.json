@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven/POM, dependências e repositórios.md",
+                "file": "Teste de Software/Definição e conceitos básicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven/POM, dependências e repositórios.md",
+                "file": "Teste de Software/Definição e conceitos básicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven/POM, dependências e repositórios.md",
+                "file": "Teste de Software/Definição e conceitos básicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maven/POM, dependências e repositórios.md"
+                "file": "Teste de Software/Definição e conceitos básicos.md"
               }
             }
           },
@@ -170,15 +170,17 @@
   },
   "active": "af13c8d05a888275",
   "lastOpenFiles": [
+    "Teste de Software/JUnit.md",
+    "Teste de Software/Níveis e técnicas de teste.md",
+    "Teste de Software/Pirâmide de Testes.md",
+    "Imagens/Pasted image 20240919165323.png",
+    "Maven/Maven.md",
+    "Maven/POM, dependências e repositórios.md",
     "Imagens/Pasted image 20240918164718.png",
     "Imagens/Pasted image 20240918164627.png",
-    "Maven/POM, dependências e repositórios.md",
     "Maven/Gerenciando Dependências.md",
     "Maven/Maven Build Lifecycle.md",
-    "Maven/Maven.md",
-    "Teste de Software/Pirâmide de Testes.md",
     "Teste de Software/Testes não funcionais.md",
-    "Teste de Software/Níveis e técnicas de teste.md",
     "Imagens/Pasted image 20240918164322.png",
     "Pasted image 20240918164251.png",
     "Imagens/Pasted image 20240918164130.png",
@@ -203,13 +205,11 @@
     "StreamAPI Java/Functional Interfaces/Suplier.md",
     "StreamAPI Java/Functional Interfaces/Function.md",
     "StreamAPI Java/Functional Interfaces/Predicate.md",
-    "StreamAPI Java/Functional Interfaces/Functional Interfaces.md",
     "StreamAPI Java/Functional Interfaces",
     "StreamAPI Java",
     "Diário",
     "Imagens/Pasted image 20240828175146.png",
     "Pasted image 20240828175127.png",
-    "Imagens/JavaCollection.png",
     "HTML Para Visualização do Token No Email",
     "Java Collections",
     "Work",
