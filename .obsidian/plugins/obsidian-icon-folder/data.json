@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiMinecraft",
+      "LiBadgeX",
       "SiTestinglibrary",
       "SiApachemaven",
-      "LiNetwork",
-      "SiStreamrunners",
-      "LiAppWindow"
+      "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,24 +37,53 @@
     "iconName": "SiPython",
     "iconColor": "#fff829"
   },
-  "Desafios": "LiActivity",
-  "Diário": "LiBookOpenText",
+  "Desafios": {
+    "iconName": "LiActivity",
+    "iconColor": "#ff0000"
+  },
+  "Diário": {
+    "iconName": "LiBookOpenText",
+    "iconColor": "#44ff00"
+  },
   "HTML Para Visualização do Token No Email": {
     "iconName": "SiHtml5",
     "iconColor": "#292fd6"
   },
-  "Imagens": "LiImage",
+  "Imagens": {
+    "iconName": "LiImage",
+    "iconColor": "#7b29b3"
+  },
   "Java Collections": {
     "iconName": "LiCoffee",
     "iconColor": "#ffae00"
   },
-  "Progamação Orientada a Objetos": "FarObjectGroup",
-  "Sintaxe Básica Java": "LiAppWindow",
-  "StreamAPI Java": "SiStreamrunners",
-  "Work": "LiNetwork",
+  "Progamação Orientada a Objetos": {
+    "iconName": "FarObjectGroup",
+    "iconColor": "#d400ff"
+  },
+  "Sintaxe Básica Java": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#a87443"
+  },
+  "StreamAPI Java": {
+    "iconName": "SiStreamrunners",
+    "iconColor": "#4b1b1b"
+  },
+  "Work": {
+    "iconName": "LiNetwork",
+    "iconColor": "#0062ff"
+  },
   "Maven": {
     "iconName": "SiApachemaven",
-    "iconColor": "#ff0000"
+    "iconColor": "#8e3939"
   },
-  "Teste de Software": "SiTestinglibrary"
+  "Teste de Software": {
+    "iconName": "SiTestinglibrary",
+    "iconColor": "#818a00"
+  },
+  "Projetos": {
+    "iconName": "LiBadgeX",
+    "iconColor": "#8f0032"
+  },
+  "ModsMine": "SiMinecraft"
 }

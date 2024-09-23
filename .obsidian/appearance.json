@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Material Gruvbox",
   "accentColor": "#212121",
   "interfaceFontFamily": "Helvetica Neue",
   "textFontFamily": "SF Pro Display",
-  "baseFontSize": 24,
+  "baseFontSize": 25,
   "baseFontSizeAction": true,
   "theme": "obsidian"
 }

@@ -49,4 +49,5 @@ Estudos de ´Progamação´ e ´Faculdade`
 		- [[8 - Terminal e Argumentos]]
 - [[Work]]
 	- - [[Work Planning Swagger]]
-		
+- [[Maven]]
+- [[Teste de Software]]
