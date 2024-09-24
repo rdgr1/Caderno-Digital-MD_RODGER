@@ -19,3 +19,18 @@
 - **Nível 2 - Uso correto dos métodos HTTP**: A API faz uso dos métodos HTTP (GET, POST, PUT, DELETE) de maneira apropriada, permitindo que os clientes realizem operações CRUD (Create, Read, Update, Delete) de forma mais semântica.
     
 - **Nível 3 - HATEOAS (Hypermedia as the Engine of Application State)**: A API não apenas utiliza métodos HTTP corretamente, mas também fornece links (hyperlinks) nos recursos retornados, permitindo que os clientes naveguem pela API de forma dinâmica, conforme as ações disponíveis.
+
+## Passo a Passo para criação de um projeto Spring Boot 3
+### 1 - Inicialização do Projeto
+*Link* para web
+-> [[https://start.spring.io| Spring Initializer Web]]
+ou 
+Inicializa Via Terminal
+
+- Selecionar um Gerenciador de Dependências exe: *Maven* ou *Gradle*
+- Selecionar a versão do **Spring Boot**
+- Criação do Project Metadata : Group,Artifact,Name,Description,Package Name, Type of Packaging, Select Version of Java
+- Adicionar Dependências exe: **DataJpa**,**Mockito**,**Lombok**.
+
+Após finalização dessas etapas introduzir seu projeto na sua ide e dar um reload no gerenciador de dependências para buscar remotamente as não disponíveis localmente.
+
