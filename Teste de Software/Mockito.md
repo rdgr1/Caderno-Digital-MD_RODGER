@@ -66,7 +66,8 @@ LocalDate.now(), 45296265);
 ```
 
 ## Espiando Objetos
-
+### Porque espiar?
+Para observar o comportamento de uma respectiva classe ou referência de uma classe.
 ##### Código de exemplo:
 ```java
 //EnviarMensagem.java

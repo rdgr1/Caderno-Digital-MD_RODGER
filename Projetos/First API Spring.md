@@ -34,3 +34,40 @@ Inicializa Via Terminal
 
 Após finalização dessas etapas introduzir seu projeto na sua ide e dar um reload no gerenciador de dependências para buscar remotamente as não disponíveis localmente.
 
+### Dependências dentro *pom.xml*
+
+```xml
+<dependencies>  
+    <dependency>  
+       <groupId>org.mockito</groupId>  
+       <artifactId>mockito-core</artifactId>  
+       <scope>test</scope>  
+    </dependency>  
+  
+    <dependency>       <groupId>org.springframework.boot</groupId>  
+       <artifactId>spring-boot-starter-data-jpa</artifactId>  
+    </dependency>  
+    <dependency>       <groupId>org.springframework.boot</groupId>  
+       <artifactId>spring-boot-starter-validation</artifactId>  
+    </dependency>  
+    <dependency>       <groupId>org.springframework.boot</groupId>  
+       <artifactId>spring-boot-starter-web</artifactId>  
+    </dependency>  
+  
+    <dependency>       <groupId>org.postgresql</groupId>  
+       <artifactId>postgresql</artifactId>  
+       <scope>runtime</scope>  
+    </dependency>  
+    <dependency>       <groupId>org.projectlombok</groupId>  
+       <artifactId>lombok</artifactId>  
+       <optional>true</optional>  
+    </dependency>  
+    <dependency>       <groupId>org.springframework.boot</groupId>  
+       <artifactId>spring-boot-starter-test</artifactId>  
+       <scope>test</scope>  
+    </dependency>  
+</dependencies>
+```
+
+#### 1. - Criando o *Model*:
+
