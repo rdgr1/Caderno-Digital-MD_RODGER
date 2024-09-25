@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste de Software/Mockito.md",
+                "file": "Work/KPI e OKR.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste de Software/Mockito.md",
+                "file": "Work/KPI e OKR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste de Software/Mockito.md",
+                "file": "Work/KPI e OKR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste de Software/Mockito.md"
+                "file": "Work/KPI e OKR.md"
               }
             }
           },
@@ -170,6 +170,8 @@
   },
   "active": "31ee4e37777818b4",
   "lastOpenFiles": [
+    "Teste de Software/Mockito.md",
+    "Work/KPI e OKR.md",
     "Projetos/First API Spring.md",
     "Projetos/Projetos.md",
     "Sintaxe Básica Java/Sintaxe Básica Java.md",
@@ -182,7 +184,6 @@
     "Sintaxe Básica Java/Sintaxe Java/7 - Java Doc.md",
     "Sintaxe Básica Java/Sintaxe Java/Sintaxe Java.md",
     "Sintaxe Básica Java/Sintaxe Java/9 - PrintF.md",
-    "Teste de Software/Mockito.md",
     "Teste de Software/JUnit.md",
     "Desafios/Desafios.md",
     "Teste de Software/Teste de Software.md",
@@ -197,7 +198,6 @@
     "Teste de Software/Definição e conceitos básicos.md",
     "Work/Work.md",
     "Teste de Software/Níveis e técnicas de teste.md",
-    "Teste de Software/Pirâmide de Testes.md",
     "Imagens/Pasted image 20240919165323.png",
     "Imagens/Pasted image 20240918164718.png",
     "Imagens/Pasted image 20240918164627.png",
