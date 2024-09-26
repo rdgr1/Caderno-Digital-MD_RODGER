@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧑‍🎓",
       "SiMinecraft",
       "LiBadgeX",
       "SiTestinglibrary",
-      "SiApachemaven",
-      "LiNetwork"
+      "SiApachemaven"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -85,5 +85,6 @@
     "iconName": "LiBadgeX",
     "iconColor": "#8f0032"
   },
-  "ModsMine": "SiMinecraft"
+  "ModsMine": "SiMinecraft",
+  "Faculdade": "🧑‍🎓"
 }

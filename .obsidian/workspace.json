@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/KPI e OKR.md",
+                "file": "Faculdade/Rede de Computadores e Internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/KPI e OKR.md",
+                "file": "Faculdade/Rede de Computadores e Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/KPI e OKR.md",
+                "file": "Faculdade/Rede de Computadores e Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/KPI e OKR.md"
+                "file": "Faculdade/Rede de Computadores e Internet.md"
               }
             }
           },
@@ -170,9 +170,14 @@
   },
   "active": "31ee4e37777818b4",
   "lastOpenFiles": [
-    "Teste de Software/Mockito.md",
-    "Work/KPI e OKR.md",
+    "README.md",
     "Projetos/First API Spring.md",
+    "Imagens/Pasted image 20240918135017.png",
+    "Faculdade/Rede de Computadores e Internet.md",
+    "Imagens/Pasted image 20240926125752.png",
+    "Work/KPI e OKR.md",
+    "Faculdade",
+    "Teste de Software/Mockito.md",
     "Projetos/Projetos.md",
     "Sintaxe Básica Java/Sintaxe Básica Java.md",
     "ModsMine/Lista.md",
@@ -187,7 +192,6 @@
     "Teste de Software/JUnit.md",
     "Desafios/Desafios.md",
     "Teste de Software/Teste de Software.md",
-    "README.md",
     "AutomaçãoPython/AutomaçãoPython.md",
     "Diário/Diário.md",
     "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
@@ -196,8 +200,6 @@
     "StreamAPI Java/StreamAPI Java.md",
     "Projetos",
     "Teste de Software/Definição e conceitos básicos.md",
-    "Work/Work.md",
-    "Teste de Software/Níveis e técnicas de teste.md",
     "Imagens/Pasted image 20240919165323.png",
     "Imagens/Pasted image 20240918164718.png",
     "Imagens/Pasted image 20240918164627.png",
@@ -206,16 +208,13 @@
     "Imagens/Pasted image 20240918164130.png",
     "Imagens/Pasted image 20240918164019.png",
     "Teste de Software",
-    "Imagens/Pasted image 20240918135017.png",
     "Maven",
     "StreamAPI Java/Functional Interfaces",
     "StreamAPI Java",
     "Diário",
     "Imagens/Pasted image 20240828175146.png",
-    "Pasted image 20240828175127.png",
     "HTML Para Visualização do Token No Email",
     "Java Collections",
-    "Work",
     "Java-Básico.canvas"
   ]
 }
