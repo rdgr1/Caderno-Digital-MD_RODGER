@@ -215,3 +215,4 @@ public class EscolhendoAOrdemDoTeste{
 - Ferramentas de cobertura de código
 (Jacoco)
 - Automatize a execução dos seus testes
+
