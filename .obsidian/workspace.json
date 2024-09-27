@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44aefda4a865f732",
+        "id": "3aa7c7064099b7d6",
         "type": "tabs",
         "children": [
           {
-            "id": "31ee4e37777818b4",
+            "id": "06b68f2922658c97",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,17 +168,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31ee4e37777818b4",
+  "active": "06b68f2922658c97",
   "lastOpenFiles": [
-    "Work/Work Planning Swagger.md",
+    "Projetos/First API Spring.md",
+    "Sintaxe Básica Java/Sintaxe Java/6 - Palavras Reservadas.md",
+    "Sintaxe Básica Java/Sintaxe Java/3 - Operadores.md",
+    "Sintaxe Básica Java/Sintaxe Java/2 - Tipos e Variáveis.md",
+    "Sintaxe Básica Java/Sintaxe Java/1 - Anatomia das Classes em Java.md",
     "Projetos/Fixação.md",
+    "Desafios/Desafios.md",
+    "Sintaxe Básica Java/Sintaxe Java/9 - PrintF.md",
+    "Work/Work Planning Swagger.md",
     "Work/Work.md",
     "Banco De Dados Relacionais/Modelagem de Dados Relacionais.md",
     "Teste de Software/Mockito.md",
     "Banco De Dados Relacionais",
     "Teste de Software/JUnit.md",
     "Teste de Software/Definição e conceitos básicos.md",
-    "Projetos/First API Spring.md",
     "StreamAPI Java/StreamAPI.md",
     "StreamAPI Java/StreamAPI Java.md",
     "Progamação Orientada a Objetos/Progamação Orientada a Objetos.md",
@@ -194,13 +200,7 @@
     "Faculdade",
     "Sintaxe Básica Java/Sintaxe Básica Java.md",
     "ModsMine/Lista.md",
-    "Progamação Orientada a Objetos/Fundamentos da POO com Java.md",
     "ModsMine",
-    "Sintaxe Básica Java/Sintaxe Java/4 - Métodos.md",
-    "Sintaxe Básica Java/Sintaxe Java/5 - Escopo.md",
-    "Sintaxe Básica Java/Sintaxe Java/6 - Palavras Reservadas.md",
-    "Sintaxe Básica Java/Sintaxe Java/7 - Java Doc.md",
-    "Sintaxe Básica Java/Sintaxe Java/Sintaxe Java.md",
     "Projetos",
     "Imagens/Pasted image 20240919165323.png",
     "Imagens/Pasted image 20240918164718.png",
