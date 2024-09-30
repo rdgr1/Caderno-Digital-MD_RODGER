@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Fixação.md",
+                "file": "Spring/Spring Boot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a633636681c6b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74cf1742c22347db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projetos/Fixação.md",
+                "file": "Spring/Spring Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projetos/Fixação.md",
+                "file": "Spring/Spring Boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projetos/Fixação.md"
+                "file": "Spring/Spring Boot.md"
               }
             }
           },
@@ -170,16 +194,26 @@
   },
   "active": "06b68f2922658c97",
   "lastOpenFiles": [
+    "Work/Work.md",
+    "Spring/Spring Boot.md",
+    "Spring/Spring Framework.md",
+    "Spring",
+    "Pasted image 20240930163551.png",
+    "Projetos/Projetos.md",
+    "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
+    "Desenvolvimento Web.md",
+    "README.md",
+    "Imagens/Pasted image 20240930154758.png",
+    "Maven/Maven.md",
+    "Projetos/Fixação.md",
     "Projetos/First API Spring.md",
     "Sintaxe Básica Java/Sintaxe Java/6 - Palavras Reservadas.md",
     "Sintaxe Básica Java/Sintaxe Java/3 - Operadores.md",
     "Sintaxe Básica Java/Sintaxe Java/2 - Tipos e Variáveis.md",
     "Sintaxe Básica Java/Sintaxe Java/1 - Anatomia das Classes em Java.md",
-    "Projetos/Fixação.md",
     "Desafios/Desafios.md",
     "Sintaxe Básica Java/Sintaxe Java/9 - PrintF.md",
     "Work/Work Planning Swagger.md",
-    "Work/Work.md",
     "Banco De Dados Relacionais/Modelagem de Dados Relacionais.md",
     "Teste de Software/Mockito.md",
     "Banco De Dados Relacionais",
@@ -190,16 +224,9 @@
     "Progamação Orientada a Objetos/Progamação Orientada a Objetos.md",
     "Imagens/Imagens.md",
     "Diário/Diário.md",
-    "Faculdade/Rede de Computadores e Internet.md",
-    "Projetos/Projetos.md",
-    "Maven/Maven.md",
-    "README.md",
     "Imagens/Pasted image 20240918135017.png",
     "Imagens/Pasted image 20240926125752.png",
-    "Work/KPI e OKR.md",
     "Faculdade",
-    "Sintaxe Básica Java/Sintaxe Básica Java.md",
-    "ModsMine/Lista.md",
     "ModsMine",
     "Projetos",
     "Imagens/Pasted image 20240919165323.png",
@@ -208,14 +235,11 @@
     "Imagens/Pasted image 20240918164322.png",
     "Pasted image 20240918164251.png",
     "Imagens/Pasted image 20240918164130.png",
-    "Imagens/Pasted image 20240918164019.png",
     "Teste de Software",
     "Maven",
     "StreamAPI Java/Functional Interfaces",
     "StreamAPI Java",
     "Diário",
-    "Imagens/Pasted image 20240828175146.png",
-    "HTML Para Visualização do Token No Email",
     "Java-Básico.canvas"
   ]
 }

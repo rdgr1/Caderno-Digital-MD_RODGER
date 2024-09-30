@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSpringboot",
+      "SiSpring",
+      "SiInternetexplorer",
       "LiServer",
-      "🧑‍🎓",
-      "SiMinecraft",
-      "LiBadgeX",
-      "SiTestinglibrary"
+      "🧑‍🎓"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -90,5 +90,21 @@
   "Banco De Dados Relacionais": {
     "iconName": "LiServer",
     "iconColor": "#00ff59"
+  },
+  "Desenvolvimento Web.md": {
+    "iconName": "SiInternetexplorer",
+    "iconColor": "#26bec9"
+  },
+  "Spring/Spring Framework.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#4dff00"
+  },
+  "Spring": {
+    "iconName": "SiSpring",
+    "iconColor": "#2c9400"
+  },
+  "Spring/Spring Boot.md": {
+    "iconName": "SiSpringboot",
+    "iconColor": "#ffffff"
   }
 }
