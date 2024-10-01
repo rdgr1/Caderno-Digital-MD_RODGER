@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "305dae7444751148",
+        "id": "d7b15cdc7d74929d",
         "type": "tabs",
         "children": [
           {
-            "id": "456d4689589e89cc",
+            "id": "6dadcc41c29e27fb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,7 +160,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "456d4689589e89cc",
+  "active": "92da64d3bcbb2f90",
   "lastOpenFiles": [
     "Apple Academy Study/Plano de Estudos.md",
     "Apple Academy Study/Exercicios.md",
