@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3aa7c7064099b7d6",
+        "id": "305dae7444751148",
         "type": "tabs",
         "children": [
           {
-            "id": "06b68f2922658c97",
+            "id": "456d4689589e89cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apple Academy Study/Exercicios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a633636681c6b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74cf1742c22347db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Desenvolvimento Web.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -110,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apple Academy Study/Exercicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apple Academy Study/Exercicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Apple Academy Study/Exercicios.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,32 +147,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota aleatória": false,
       "3d-graph:3D Graph": false,
       "obsidian-git:Open Git source control": false,
       "flashcards-obsidian:Generate flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06b68f2922658c97",
+  "active": "456d4689589e89cc",
   "lastOpenFiles": [
     "Apple Academy Study/Plano de Estudos.md",
     "Apple Academy Study/Exercicios.md",
+    "Teste de Software/JUnit.md",
+    "Spring/Beans VS Components.md",
+    "Spring/Spring Framework.md",
+    "Spring/Spring Boot.md",
     "Work/Desenvolvimento Web.md",
+    "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
     "Apple Academy Study",
     "Imagens/Pasted image 20240930163551.png",
-    "Spring/Spring Boot.md",
     "Work/Work.md",
-    "Spring/Spring Framework.md",
     "Spring",
     "Projetos/Projetos.md",
-    "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
     "README.md",
     "Imagens/Pasted image 20240930154758.png",
     "Maven/Maven.md",
@@ -220,11 +190,9 @@
     "Banco De Dados Relacionais/Modelagem de Dados Relacionais.md",
     "Teste de Software/Mockito.md",
     "Banco De Dados Relacionais",
-    "Teste de Software/JUnit.md",
     "Teste de Software/Definição e conceitos básicos.md",
     "StreamAPI Java/StreamAPI.md",
     "StreamAPI Java/StreamAPI Java.md",
-    "Progamação Orientada a Objetos/Progamação Orientada a Objetos.md",
     "Imagens/Pasted image 20240918135017.png",
     "Imagens/Pasted image 20240926125752.png",
     "Faculdade",
