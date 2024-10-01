@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Boot.md",
+                "file": "Work/Desenvolvimento Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento Web.md",
+                "file": "Work/Desenvolvimento Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring Boot.md",
+                "file": "Work/Desenvolvimento Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring Boot.md",
+                "file": "Work/Desenvolvimento Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring Boot.md"
+                "file": "Work/Desenvolvimento Web.md"
               }
             }
           },
@@ -179,29 +179,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "random-note:Abrir nota aleatória": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "3d-graph:3D Graph": false,
       "obsidian-git:Open Git source control": false,
       "flashcards-obsidian:Generate flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06b68f2922658c97",
+  "active": "17e7e21f82ed6314",
   "lastOpenFiles": [
-    "Work/Work.md",
+    "Imagens/Pasted image 20240930163551.png",
+    "Work/Desenvolvimento Web.md",
     "Spring/Spring Boot.md",
+    "Work/Work.md",
     "Spring/Spring Framework.md",
     "Spring",
-    "Pasted image 20240930163551.png",
     "Projetos/Projetos.md",
     "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
-    "Desenvolvimento Web.md",
     "README.md",
     "Imagens/Pasted image 20240930154758.png",
     "Maven/Maven.md",
@@ -223,7 +223,6 @@
     "StreamAPI Java/StreamAPI Java.md",
     "Progamação Orientada a Objetos/Progamação Orientada a Objetos.md",
     "Imagens/Imagens.md",
-    "Diário/Diário.md",
     "Imagens/Pasted image 20240918135017.png",
     "Imagens/Pasted image 20240926125752.png",
     "Faculdade",

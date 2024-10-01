@@ -91,10 +91,6 @@
     "iconName": "LiServer",
     "iconColor": "#00ff59"
   },
-  "Desenvolvimento Web.md": {
-    "iconName": "SiInternetexplorer",
-    "iconColor": "#26bec9"
-  },
   "Spring/Spring Framework.md": {
     "iconName": "SiSpring",
     "iconColor": "#4dff00"
@@ -106,5 +102,9 @@
   "Spring/Spring Boot.md": {
     "iconName": "SiSpringboot",
     "iconColor": "#ffffff"
+  },
+  "Work/Desenvolvimento Web.md": {
+    "iconName": "SiInternetexplorer",
+    "iconColor": "#26bec9"
   }
 }
