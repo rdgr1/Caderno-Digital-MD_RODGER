@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d7b15cdc7d74929d",
+        "id": "2ef59c3972977a33",
         "type": "tabs",
         "children": [
           {
-            "id": "6dadcc41c29e27fb",
+            "id": "e6ce6243fb969fcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6dadcc41c29e27fb",
+  "active": "92da64d3bcbb2f90",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Apple Academy Study/Plano de Estudos.md",
