@@ -107,8 +107,5 @@
     "iconName": "SiInternetexplorer",
     "iconColor": "#26bec9"
   },
-  "Apple Academy Study": {
-    "iconName": "SiApple",
-    "iconColor": "#ffffff"
-  }
+  "Apple Academy Study": "SiApple"
 }

@@ -1,4 +1,4 @@
-# Plano de Estudos Intensivo para Apple Developer Academy - Prova Técnica
+## Prova Técnica
 
 ## Datas da prova:
 **16/10/2024 a 18/10/2024**
