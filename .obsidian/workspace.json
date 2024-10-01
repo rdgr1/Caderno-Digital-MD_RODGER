@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apple Academy Study/Exercicios.md",
+                "file": "Apple Academy Study/Plano de Estudos.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apple Academy Study/Exercicios.md",
+                "file": "Apple Academy Study/Plano de Estudos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apple Academy Study/Exercicios.md",
+                "file": "Apple Academy Study/Plano de Estudos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apple Academy Study/Exercicios.md"
+                "file": "Apple Academy Study/Plano de Estudos.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "06b68f2922658c97",
   "lastOpenFiles": [
-    "Apple Academy Study/Plano de Estudos.md",
     "Apple Academy Study/Exercicios.md",
+    "Apple Academy Study/Plano de Estudos.md",
     "Work/Desenvolvimento Web.md",
     "Apple Academy Study",
     "Imagens/Pasted image 20240930163551.png",
