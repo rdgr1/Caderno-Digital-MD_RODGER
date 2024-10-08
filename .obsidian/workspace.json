@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6ce6243fb969fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sintaxe Básica Java/Sintaxe Básica Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c3e3bc859a82a4c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rest com Spring Web/Rest com Spring Web.md",
+                "file": "FlashCards Java/FlashCards Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rest com Spring Web/Rest com Spring Web.md",
+                "file": "FlashCards Java/FlashCards Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rest com Spring Web/Rest com Spring Web.md",
+                "file": "FlashCards Java/FlashCards Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rest com Spring Web/Rest com Spring Web.md"
+                "file": "FlashCards Java/FlashCards Java.md"
               }
             }
           },
@@ -182,11 +168,23 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c3e3bc859a82a4c9",
+  "active": "4faee5fd8b57c67b",
   "lastOpenFiles": [
+    "Java Collections/Collection Framework API.md",
+    "FlashCards Java/FlashCards Java.md",
+    "FlashCards Java",
+    "Java Collections/Java Collections.md",
+    "Maven/Maven.md",
+    "AutomaçãoPython/AutomaçãoPython.md",
+    "Desafios/Desafios.md",
+    "Diário/Diário.md",
+    "Faculdade/Rede de Computadores e Internet.md",
+    "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
+    "Imagens/Imagens.md",
+    "Progamação Orientada a Objetos/Progamação Orientada a Objetos.md",
+    "Rest com Spring Web/Rest com Spring Web.md",
     "Rest com Spring Web/Spring Security.md",
     "StreamAPI Java/StreamAPI Java.md",
-    "Rest com Spring Web/Rest com Spring Web.md",
     "Rest com Spring Web",
     "Sintaxe Básica Java/Sintaxe Básica Java.md",
     "Apple Academy Study/Plano de Estudos.md",
@@ -198,23 +196,12 @@
     "Spring/Spring Framework.md",
     "Spring/Spring Boot.md",
     "Work/Desenvolvimento Web.md",
-    "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
     "Apple Academy Study",
     "Imagens/Pasted image 20240930163551.png",
     "Work/Work.md",
     "Spring",
     "Projetos/Projetos.md",
     "Imagens/Pasted image 20240930154758.png",
-    "Maven/Maven.md",
-    "Projetos/Fixação.md",
-    "Projetos/First API Spring.md",
-    "Sintaxe Básica Java/Sintaxe Java/6 - Palavras Reservadas.md",
-    "Sintaxe Básica Java/Sintaxe Java/3 - Operadores.md",
-    "Sintaxe Básica Java/Sintaxe Java/2 - Tipos e Variáveis.md",
-    "Sintaxe Básica Java/Sintaxe Java/1 - Anatomia das Classes em Java.md",
-    "Desafios/Desafios.md",
-    "Sintaxe Básica Java/Sintaxe Java/9 - PrintF.md",
-    "Work/Work Planning Swagger.md",
     "Banco De Dados Relacionais",
     "Imagens/Pasted image 20240918135017.png",
     "Imagens/Pasted image 20240926125752.png",
@@ -229,7 +216,6 @@
     "Imagens/Pasted image 20240918164130.png",
     "Teste de Software",
     "Maven",
-    "StreamAPI Java/Functional Interfaces",
     "Java-Básico.canvas"
   ]
 }

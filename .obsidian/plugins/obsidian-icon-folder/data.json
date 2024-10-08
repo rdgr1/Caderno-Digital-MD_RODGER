@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCoffeescript",
       "SiWebpack",
       "SiApple",
       "SiSpringboot",
-      "SiSpring",
-      "SiInternetexplorer"
+      "SiSpring"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -85,7 +85,6 @@
     "iconName": "LiBadgeX",
     "iconColor": "#8f0032"
   },
-  "ModsMine": "SiMinecraft",
   "Faculdade": "🧑‍🎓",
   "Banco De Dados Relacionais": {
     "iconName": "LiServer",
@@ -111,5 +110,9 @@
   "Rest com Spring Web": {
     "iconName": "SiWebpack",
     "iconColor": "#4f8d1c"
+  },
+  "FlashCards Java": {
+    "iconName": "SiCoffeescript",
+    "iconColor": "#aeff00"
   }
 }
