@@ -1,9 +1,9 @@
 {
   "cssTheme": "Blue Topaz",
-  "accentColor": "#ffffff",
-  "interfaceFontFamily": "Helvetica Neue",
+  "accentColor": "#ffa200",
+  "interfaceFontFamily": "SF Pro Display",
   "textFontFamily": "SF Pro Display",
-  "baseFontSize": 25,
+  "baseFontSize": 19,
   "baseFontSizeAction": true,
   "theme": "obsidian"
 }
