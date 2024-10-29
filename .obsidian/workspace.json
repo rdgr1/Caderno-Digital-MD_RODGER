@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f27c36f5fe91cb37",
+        "id": "7e2db7ced2db2970",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b23f8249737813",
+            "id": "35c10fe5ce4b9948",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -183,7 +183,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "17e7e21f82ed6314",
+  "active": "35c10fe5ce4b9948",
   "lastOpenFiles": [
     "RoadMap Sankhya Developer/RoadMap Sankhya Developer.md",
     "Apple Academy Study/Apple Academy Study.md",
