@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ace3f9286e5d8c5f",
+        "id": "f27c36f5fe91cb37",
         "type": "tabs",
         "children": [
           {
-            "id": "bfed26e4629a74d5",
+            "id": "f9b23f8249737813",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript para Angular/Tipos no TypeScript.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tipos no TypeScript"
+              "title": "New tab"
             }
           }
         ]
@@ -187,37 +183,38 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "bfed26e4629a74d5",
+  "active": "17e7e21f82ed6314",
   "lastOpenFiles": [
-    "TypeScript para Angular/Rodando Type.md",
-    "TypeScript para Angular/Tipos no TypeScript.md",
-    "TypeScript para Angular/TypeScript para Angular.md",
+    "RoadMap Sankhya Developer/RoadMap Sankhya Developer.md",
+    "Apple Academy Study/Apple Academy Study.md",
+    "AutomaçãoPython/AutomaçãoPython.md",
+    "Banco De Dados Relacionais/Banco De Dados Relacionais.md",
+    "Faculdade/Faculdade.md",
+    "RoadMap Sankhya Developer/RoadMap Sankhya ERP.md",
+    "Work/Work.md",
+    "REST SpringWeb e Swagger/Spring Web.md",
+    "Imagens/Pasted image 20241029165318.png",
     "Rest com Spring Web/Rest com Spring Web.md",
+    "Rest com Spring Web/Spring Security.md",
+    "Spring/Spring.md",
+    "TypeScript para Angular/TypeScript para Angular.md",
+    "TypeScript para Angular/Interfaces.md",
+    "TypeScript para Angular/Funções.md",
+    "TypeScript para Angular/Tipos no TypeScript.md",
+    "TypeScript para Angular/Rodando Type.md",
     "TypeScript para Angular",
     "Web Components Front-End/Web Components, Front-End e DOM.md",
-    "REST SpringWeb e Swagger/Spring Web.md",
     "Web Components Front-End",
     "REST SpringWeb e Swagger",
     "Work/Desenvolvimento Web.md",
-    "Work/Work.md",
     "README.md",
     "FlashCards Java/FlashCards Java.md",
-    "Rest com Spring Web/Spring Security.md",
     "Maven/Maven.md",
     "MicroService em Spring/MicroService em Spring.md",
     "Imagens/link.md",
-    "RoadMap Sankhya Developer/RoadMap Sankhya Developer.md",
     "Projetos/Projetos.md",
     "Desafios/Desafios.md",
-    "AutomaçãoPython/AutomaçãoPython.md",
-    "Apple Academy Study/Apple Academy Study.md",
-    "Banco De Dados Relacionais/Banco De Dados Relacionais.md",
     "Banco De Dados Relacionais/Modelagem de Dados Relacionais.md",
-    "Diário/Diário.md",
-    "Faculdade/Faculdade.md",
-    "Imagens/Imagens.md",
-    "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
-    "Java Collections/Java Collections.md",
     "MicroService em Spring/Pasted image 20241009164500.png",
     "RoadMap Sankhya Developer",
     "Tabela",
@@ -234,7 +231,6 @@
     "Imagens/Pasted image 20240918164718.png",
     "Imagens/Pasted image 20240918164627.png",
     "Imagens/Pasted image 20240918164322.png",
-    "Pasted image 20240918164251.png",
     "Java-Básico.canvas"
   ]
 }

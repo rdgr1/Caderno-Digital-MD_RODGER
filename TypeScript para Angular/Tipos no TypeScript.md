@@ -54,7 +54,7 @@ description: "Estupidamente no Ponto",
 ```
 
 ### Arrays:
-No typescript existem duas formas de declarar arrays ->
+No typescript existem duas formas de declarar **arrays** ->
 ```typescript
 // Forma 1:
 let dados: string[] = ["Irineu","Piriney","SaxoWaldisney"];
@@ -63,9 +63,21 @@ let dados2: Array<string> = ["Rodger","Chimbinha","Niltin"];
 ```
 
 ### Array Multi Types:
-Declarando um array com multi tipos:
+Declarando um **array** com multi tipos pode ter qualquer ordem sendo do mesmo tipo declarado:
 ```typescript
 let infos: (string | number)[]= ["Rodger",77,"Niltin",54];
 ```
 
 ### Tuplas: 
+É um vetor de *multitypes* deve ser seguida a exata ordem que foi declarada:
+```typescript
+let boleto:[string,number,number] = ["agua conta",199,90,"luz",89,90];
+```
+
+### Datas:
+Declarando datas no typescript:
+```typescript
+let aniversario:Date = new Date("2023-12-01 05:00")
+console.log(aniversario.toString())
+```
+
