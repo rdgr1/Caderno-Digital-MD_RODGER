@@ -39,7 +39,7 @@ public class UserModel {
 ```
 ### Uso com Repository
 ```java
-public interface UserRepository implements JpaRepository<User,Integer>{
+public interface UserRepository extends JpaRepository<User,Integer>{
 }
 ```
 
