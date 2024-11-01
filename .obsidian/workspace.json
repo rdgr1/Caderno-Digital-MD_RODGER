@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Conexão PostgreSQL.md",
+                "file": "Curso Spring e Angular17/Indíce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conexão PostgreSQL"
+              "title": "Indíce"
+            }
+          },
+          {
+            "id": "050e312b8a47fd19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rest com Spring Web/Exceptions Handlers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exceptions Handlers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,25 +202,29 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "52d0864e846a7cef",
+  "active": "050e312b8a47fd19",
   "lastOpenFiles": [
+    "Rest com Spring Web/Estilo Arquitetural REST.md",
+    "Rest com Spring Web/Expondo Endpoints REST.md",
+    "Rest com Spring Web/Exceptions Handlers.md",
+    "Rest com Spring Web/Rest com Spring Web.md",
+    "Spring/Spring.md",
+    "Curso Spring e Angular17/Indíce.md",
+    "Banco De Dados Relacionais/Banco De Dados Relacionais.md",
+    "Apple Academy Study/Apple Academy Study.md",
+    "AutomaçãoPython/AutomaçãoPython.md",
+    "Spring/Conexão PostgreSQL.md",
     "Spring/Properties.md",
     "Linux/Arquivo .tar.md",
-    "Spring/Spring.md",
     "Linux",
     "Spring/Spring Data JPA.md",
-    "Rest com Spring Web/Expondo Endpoints REST.md",
-    "Curso Spring e Angular17/Indíce.md",
     "Spring/Beans VS Components.md",
-    "Rest com Spring Web/Estilo Arquitetural REST.md",
-    "Rest com Spring Web/Rest com Spring Web.md",
     "Rest com Spring Web/Spring Security.md",
     "Teste de Software/JUnit.md",
     "Curso Spring e Angular17",
     "Teste de Software/Definição e conceitos básicos.md",
     "Teste de Software/Teste de Software.md",
     "Spring/O Poderoso Repository.md",
-    "Spring/Conexão PostgreSQL.md",
     "Spring/Conceitos de ORM e JPA.md",
     "Spring/Scopes - Singleton ou Prototype.md",
     "MicroService em Spring/MicroService em Spring.md",
@@ -214,10 +233,6 @@
     "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
     "Imagens/Imagens.md",
     "Imagens/link.md",
-    "Spring/Spring Framework.md",
-    "Spring/Primeiros passos.md",
-    "Spring/Spring Boot.md",
-    "Maven/Maven.md",
     "Imagens/Pasted image 20241029165318.png",
     "TypeScript para Angular",
     "Web Components Front-End",
