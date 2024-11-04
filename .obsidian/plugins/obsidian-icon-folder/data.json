@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiAmazonsimpleemailservice",
+      "LiFolderCode",
       "SiLinux",
       "📚",
-      "SiSwagger",
-      "SiTypescript",
-      "SiInternetexplorer"
+      "SiSwagger"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -117,5 +117,6 @@
   "TypeScript para Angular": "SiTypescript",
   "REST SpringWeb e Swagger": "SiSwagger",
   "Curso Spring e Angular17": "📚",
-  "Linux": "SiLinux"
+  "Linux": "SiLinux",
+  "Decoder 2.0 Spring Microservices Especialista": "SiAmazonsimpleemailservice"
 }
