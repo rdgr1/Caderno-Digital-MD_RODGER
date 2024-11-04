@@ -71,3 +71,44 @@ O padrão Global Configuration também é responsavel por serviços transversais
 
 ## Padroẽs de Observalidade em Microservices
 ![[Pasted image 20241104144921.png]]
+Todos os logs irão para uma base de dados específica para melhor controle e observabilidade do nosso sistema ou aplicação
+![[Pasted image 20241104145221.png]]
+Utilizaremos Logback/Log4js com spring para esse controle
+![[Pasted image 20241104145317.png]]
+Utilizaremos a plataforma elastic para armazenamento de logs e utilizarmo da elastic search.
+![[Pasted image 20241104145537.png]]
+Utilizaremos Spring Actuator para observabilidade de métricas e health dos nosso microserviços
+![[Pasted image 20241104145831.png]]
+e para o rastreamento dos serviços com id macro e micro dentro da arquitetura garantindo uma boa rastreabilidade
+![[Pasted image 20241104150030.png]]
+Benefícios do Spring Observability
+![[Pasted image 20241104150109.png]]
+Para evitar possíveis falhas em cascata no contexto de comunicação sincrona entre os microservices utilizaremos circuit breaker para maior **Resiliência de Microserviço**.
+![[Pasted image 20241104150516.png]]
+e dentro do ecossistema spring utiliaremos o Spring Circuit Breaker para essa função.
+![[Pasted image 20241104150528.png]]
+### Padrões de Autenticação e Autorização em Microservices
+## Modelo 1 
+![[Pasted image 20241104150812.png]]
+## Modelo 2:
+![[Pasted image 20241104150936.png]]
+Contamos com Spring Security para esse dois modelos 
+![[Pasted image 20241104151234.png]]
+### Spring Security 
+#### Benefícios:
+- Projeot que fornece autenticação e autorização para aplicações Java
+- Suporte parar implementação de Basic Authentication em memória e em database, JWT e OAuth
+
+# Arquitetura Completa 
+![[Pasted image 20241104151537.png]]
+### Padrões dentro da Arquitetura:
+- **API Gateway**
+- **Registry Descovery**
+- **Global Configurate**
+- **Observabilidade**
+- **Resiliência**
+- **Autenticação e Autorização**
+
+### Overview de Projetos Spring Inclusos nos Padrões
+![[Pasted image 20241104152007.png]]
+

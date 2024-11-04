@@ -34,3 +34,34 @@ Basic **dXNlcm5hbWWU6cGFzc3dvcmQ=**
 
 ### OAuth 2.0
 OAuth 2.0 é um protocolo que permite aos usuários ter acesso limitado a recursos de um website sem precisar expor suas credenciais.
+## Configurando Estratégias de autenticação
+Para utilizar o Spring Security no Ambito de Rest com Spring Web, e necessário criar um pacote `config` que dentro teremos o `SecurityConfig` 
+
+Configuração Inicial do Spring Security
+```java
+@Configuration // Anotação para indicar que esta é uma classe de configuração
+public class SecurityConfig {
+
+    @Bean // Anotação para definir o método como um bean gerenciado pelo Spring
+    public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
+        // Configuração de segurança HTTP
+        http.csrf().disable() // Desativa a proteção CSRF
+            .authorizeHttpRequests(auth -> auth.anyRequest().authenticated()) // Exige autenticação para todas as requisições
+            .httpBasic(); // Usa autenticação básica HTTP
+        return http.build(); // Retorna a configuração construída
+    }
+
+    @Bean // Anotação para definir o método como um bean gerenciado pelo Spring
+    public UserDetailsService userDetailsService() {
+        // Configuração de autenticação em memória
+        UserDetails user = User.builder() // Cria um usuário com as configurações abaixo
+            .username("rod777") // Define o nome de usuário
+            .password("{noop}12345") // Define a senha (com {noop} para indicar que não é codificada)
+            .roles("USER") // Define o papel (role) do usuário
+            .build(); // Constrói o objeto UserDetails
+        return new InMemoryUserDetailsManager(user); // Retorna o gerenciador de usuários em memória com o usuário configurado
+    }
+}
+```
+
+

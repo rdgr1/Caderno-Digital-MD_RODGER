@@ -36,3 +36,26 @@ public class ProdutoControllerAdvice extends ResponseEntityExceptionHandler{
 	}
 }
 ```
+
+### Definindo Exceção para erro no valor 
+```java
+public ProdutoModel save(ProdutoModel produtoModel) throws Exception{
+	if(produtoModel.getNome == null){
+		throws new ProdutoNullException();
+	}
+	else-if(produtoModel.getPreco > 0){
+		throws new ProdutoPriceException();
+	}
+	return produtoRepository.save(produtoModel);
+}
+```
+## Tratando a exceção especifica
+```java
+@ExceptionHandler(ProdutoPriceException.class)  
+public ResponseEntity<Object> capturaErroPrice(){  
+    Map<String,Object> body = new HashMap<>();  
+    body.put("message","O valor do produto não pode ser negativo");  
+        return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(body); 
+    }
+```
+

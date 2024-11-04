@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb6c8034fda04a0c",
+        "id": "1b6459c217e2a91b",
         "type": "tabs",
         "children": [
           {
-            "id": "52d0864e846a7cef",
+            "id": "06ad79c4342af083",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decoder 2.0 Spring Microservices Especialista/Boas Práticas e Padrões de Microservices.md",
+                "file": "Rest com Spring Web/Spring Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boas Práticas e Padrões de Microservices"
+              "title": "Spring Security"
             }
           }
         ]
@@ -187,31 +187,35 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "52d0864e846a7cef",
+  "active": "06ad79c4342af083",
   "lastOpenFiles": [
-    "Imagens/Pasted image 20241104144921.png",
-    "README.md",
+    "Spring/Beans VS Components.md",
+    "Rest com Spring Web/Spring Security.md",
+    "Spring/Spring.md",
+    "Spring Security/Basic Authentication.md",
+    "Spring Security",
+    "Rest com Spring Web/Rest com Spring Web.md",
+    "Rest com Spring Web/Exceptions Handlers.md",
+    "Imagens/Pasted image 20241104152007.png",
+    "Rest com Spring Web/Estilo Arquitetural REST.md",
+    "Curso Spring e Angular17/Indíce.md",
     "Decoder 2.0 Spring Microservices Especialista/Boas Práticas e Padrões de Microservices.md",
-    "Java Collections/Java Collections.md",
-    "Imagens/Pasted image 20241104144417.png",
     "Decoder 2.0 Spring Microservices Especialista/Decoder 2.0 Spring Microservices Especialista.md",
+    "Imagens/Pasted image 20241104151958.png",
+    "Imagens/Pasted image 20241104151537.png",
+    "Imagens/Pasted image 20241104151411.png",
+    "Imagens/Pasted image 20241104151234.png",
+    "Imagens/Pasted image 20241104151233.png",
+    "Imagens/Pasted image 20241104151232.png",
+    "Imagens/Pasted image 20241104150936.png",
+    "Imagens/Pasted image 20241104150812.png",
+    "Imagens/Pasted image 20241104150528.png",
+    "README.md",
+    "Java Collections/Java Collections.md",
     "FlashCards Java/FlashCards Java.md",
     "Imagens/Imagens.md",
-    "Imagens/Pasted image 20241104143710.png",
-    "Imagens/Pasted image 20241104142936.png",
-    "Imagens/Pasted image 20241104142458.png",
-    "Imagens/Pasted image 20241104142342.png",
-    "Imagens/Pasted image 20241104141810.png",
-    "Imagens/Pasted image 20241104141516.png",
-    "Imagens/Pasted image 20241104141400.png",
-    "Imagens/Pasted image 20241104135834.png",
-    "Rest com Spring Web/Rest com Spring Web.md",
     "Decoder 2.0 Spring Microservices Especialista",
-    "Rest com Spring Web/Exceptions Handlers.md",
-    "Rest com Spring Web/Estilo Arquitetural REST.md",
     "Rest com Spring Web/Expondo Endpoints REST.md",
-    "Spring/Spring.md",
-    "Curso Spring e Angular17/Indíce.md",
     "Banco De Dados Relacionais/Banco De Dados Relacionais.md",
     "Apple Academy Study/Apple Academy Study.md",
     "AutomaçãoPython/AutomaçãoPython.md",
@@ -220,8 +224,6 @@
     "Linux/Arquivo .tar.md",
     "Linux",
     "Spring/Spring Data JPA.md",
-    "Spring/Beans VS Components.md",
-    "Rest com Spring Web/Spring Security.md",
     "Teste de Software/JUnit.md",
     "Curso Spring e Angular17",
     "Teste de Software/Definição e conceitos básicos.md",
@@ -233,7 +235,6 @@
     "RoadMap Sankhya Developer",
     "Tabela",
     "MicroService em Spring",
-    "FlashCards Java",
     "Java-Básico.canvas"
   ]
 }
