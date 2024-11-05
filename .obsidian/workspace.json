@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb88b9daebc0d372",
+        "id": "13f580dd8b335748",
         "type": "tabs",
         "children": [
           {
-            "id": "21f45195251cafe1",
+            "id": "2022ea607a4aa602",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -183,8 +183,12 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "21f45195251cafe1",
+  "active": "2022ea607a4aa602",
   "lastOpenFiles": [
+    "Swing/swing_tutorial.md",
+    "Swing/Pasted image 20241101202059.png",
+    "Swing/LogicScreen_Java.png",
+    "Swing/ConncetionFactory.png",
     "Spring/Conexão PostgreSQL.md",
     "Spring/O Poderoso Repository.md",
     "Spring/Properties.md",
@@ -206,9 +210,6 @@
     "Imagens/Pasted image 20241105154350.png",
     "Imagens/Pasted image 20241105154320.png",
     "Imagens/Pasted image 20241105154141.png",
-    "Imagens/Pasted image 20241105154008.png",
-    "Imagens/Pasted image 20241105153916.png",
-    "Imagens/Pasted image 20241105153715.png",
     "Spring/Beans VS Components.md",
     "Spring/Spring.md",
     "Spring Security/Basic Authentication.md",
@@ -224,7 +225,6 @@
     "Banco De Dados Relacionais/Banco De Dados Relacionais.md",
     "Apple Academy Study/Apple Academy Study.md",
     "AutomaçãoPython/AutomaçãoPython.md",
-    "Linux/Arquivo .tar.md",
     "Linux",
     "Curso Spring e Angular17",
     "TypeScript para Angular",
