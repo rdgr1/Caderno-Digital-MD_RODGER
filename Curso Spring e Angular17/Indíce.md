@@ -10,7 +10,7 @@
 	- [[Spring Data JPA]]
 	- [[Conexão PostgreSQL]]
 - [x] Gerenciamento de Dependências com Maven e Gradle
-- [ ] Arquitetura de Aplicações Rest com Spring Web
-- [[Estilo Arquitetural REST]]
-- [[Expondo Endpoints REST]]
+- [x] Arquitetura de Aplicações Rest com Spring Web
+- [x] Segurança com Spring Security
+- [ ] API REST Documentada com Spring Web e Swagger
 - [ ] 

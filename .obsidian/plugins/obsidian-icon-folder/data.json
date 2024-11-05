@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSwagger",
       "SiSpringsecurity",
       "SiAmazonsimpleemailservice",
       "LiFolderCode",
-      "SiLinux",
-      "📚"
+      "SiLinux"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -118,5 +118,6 @@
   "REST SpringWeb e Swagger": "SiSwagger",
   "Curso Spring e Angular17": "📚",
   "Linux": "SiLinux",
-  "Decoder 2.0 Spring Microservices Especialista": "SiAmazonsimpleemailservice"
+  "Decoder 2.0 Spring Microservices Especialista": "SiAmazonsimpleemailservice",
+  "Segurança com Spring Security": "SiSpringsecurity"
 }

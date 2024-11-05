@@ -38,7 +38,7 @@ Modelo que mais facilmente é capaz de acompanhar as frenéticas mudanças dis n
 ---
 ![[Pasted image 20241104135834.png]]
 
-### Modelando o padrão API Gateway
+## Modelando o padrão API Gateway
 ![[Pasted image 20241104141400.png]]
 
 ![[Pasted image 20241104141516.png]]

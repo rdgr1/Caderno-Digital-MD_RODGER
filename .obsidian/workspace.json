@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b6459c217e2a91b",
+        "id": "eb88b9daebc0d372",
         "type": "tabs",
         "children": [
           {
-            "id": "06ad79c4342af083",
+            "id": "21f45195251cafe1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rest com Spring Web/Spring Security.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Spring Security"
+              "title": "New tab"
             }
           }
         ]
@@ -187,29 +183,38 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "06ad79c4342af083",
+  "active": "21f45195251cafe1",
   "lastOpenFiles": [
-    "Spring/Beans VS Components.md",
+    "Spring/Conexão PostgreSQL.md",
+    "Spring/O Poderoso Repository.md",
+    "Spring/Properties.md",
+    "REST SpringWeb e Swagger/Spring Web.md",
+    "Curso Spring e Angular17/Indíce.md",
+    "Spring Web and Swagger",
+    "Rest com Spring Web/Rest com Spring Web.md",
+    "Segurança com Spring Security/Springboot Security com JWT.md",
+    "Decoder 2.0 Spring Microservices Especialista/Decoder 2.0 Spring Microservices Especialista.md",
+    "Segurança com Spring Security",
+    "Rest com Spring Web/Actuator, Métircas e Heathl Check.md",
     "Rest com Spring Web/Spring Security.md",
+    "Imagens/Pasted image 20241105154932.png",
+    "Imagens/Pasted image 20241105145133.png",
+    "Decoder 2.0 Spring Microservices Especialista/Boas Práticas e Padrões de Microservices.md",
+    "Decoder 2.0 Spring Microservices Especialista/Modelos de Comunicações entre Microservices.md",
+    "Imagens/Pasted image 20241105154854.png",
+    "Imagens/Pasted image 20241105154447.png",
+    "Imagens/Pasted image 20241105154350.png",
+    "Imagens/Pasted image 20241105154320.png",
+    "Imagens/Pasted image 20241105154141.png",
+    "Imagens/Pasted image 20241105154008.png",
+    "Imagens/Pasted image 20241105153916.png",
+    "Imagens/Pasted image 20241105153715.png",
+    "Spring/Beans VS Components.md",
     "Spring/Spring.md",
     "Spring Security/Basic Authentication.md",
     "Spring Security",
-    "Rest com Spring Web/Rest com Spring Web.md",
     "Rest com Spring Web/Exceptions Handlers.md",
-    "Imagens/Pasted image 20241104152007.png",
     "Rest com Spring Web/Estilo Arquitetural REST.md",
-    "Curso Spring e Angular17/Indíce.md",
-    "Decoder 2.0 Spring Microservices Especialista/Boas Práticas e Padrões de Microservices.md",
-    "Decoder 2.0 Spring Microservices Especialista/Decoder 2.0 Spring Microservices Especialista.md",
-    "Imagens/Pasted image 20241104151958.png",
-    "Imagens/Pasted image 20241104151537.png",
-    "Imagens/Pasted image 20241104151411.png",
-    "Imagens/Pasted image 20241104151234.png",
-    "Imagens/Pasted image 20241104151233.png",
-    "Imagens/Pasted image 20241104151232.png",
-    "Imagens/Pasted image 20241104150936.png",
-    "Imagens/Pasted image 20241104150812.png",
-    "Imagens/Pasted image 20241104150528.png",
     "README.md",
     "Java Collections/Java Collections.md",
     "FlashCards Java/FlashCards Java.md",
@@ -219,22 +224,13 @@
     "Banco De Dados Relacionais/Banco De Dados Relacionais.md",
     "Apple Academy Study/Apple Academy Study.md",
     "AutomaçãoPython/AutomaçãoPython.md",
-    "Spring/Conexão PostgreSQL.md",
-    "Spring/Properties.md",
     "Linux/Arquivo .tar.md",
     "Linux",
-    "Spring/Spring Data JPA.md",
-    "Teste de Software/JUnit.md",
     "Curso Spring e Angular17",
-    "Teste de Software/Definição e conceitos básicos.md",
-    "Teste de Software/Teste de Software.md",
-    "Spring/O Poderoso Repository.md",
     "TypeScript para Angular",
     "Web Components Front-End",
     "REST SpringWeb e Swagger",
     "RoadMap Sankhya Developer",
-    "Tabela",
-    "MicroService em Spring",
     "Java-Básico.canvas"
   ]
 }
