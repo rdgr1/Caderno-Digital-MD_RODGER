@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3aa7c7064099b7d6",
+        "id": "f30f6fd419c3fab7",
         "type": "tabs",
         "children": [
           {
-            "id": "06b68f2922658c97",
+            "id": "af086d633f133383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apple Academy Study/Plano de Estudos.md",
+                "file": "Progamação Orientada a Objetos/Fundamentos da POO com Java.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5a633636681c6b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML Para Visualização do Token No Email/HTML Para Visualização do Token No Email.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74cf1742c22347db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Desenvolvimento Web.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Fundamentos da POO com Java"
             }
           }
         ]
@@ -68,7 +46,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -76,7 +56,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -86,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apple Academy Study/Plano de Estudos.md",
+                "file": "Progamação Orientada a Objetos/Fundamentos da POO com Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fundamentos da POO com Java"
             }
           },
           {
@@ -127,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apple Academy Study/Plano de Estudos.md",
+                "file": "Progamação Orientada a Objetos/Fundamentos da POO com Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Fundamentos da POO com Java"
             }
           },
           {
@@ -141,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apple Academy Study/Plano de Estudos.md"
-              }
+                "file": "Progamação Orientada a Objetos/Fundamentos da POO com Java.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fundamentos da POO com Java"
             }
           },
           {
@@ -159,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -167,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -192,8 +188,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06b68f2922658c97",
+  "active": "af086d633f133383",
   "lastOpenFiles": [
+    "Progamação Orientada a Objetos/Pilares da Progamação Orientada a Objetos em Java.md",
+    "Progamação Orientada a Objetos/Progamação Orientada a Objetos.md",
+    "Sintaxe Básica Java/Controle de Fluxo/Controle de Fluxo.md",
+    "Sintaxe Básica Java/Controle de Fluxo/Estruturas Condicionais.md",
+    "Sintaxe Básica Java/Sintaxe Básica Java.md",
+    "Sintaxe Básica Java/Debugging Java/Debug Java.md",
+    "Sintaxe Básica Java/Debugging Java/Debugging Java.md",
     "Apple Academy Study/Exercicios.md",
     "Apple Academy Study/Plano de Estudos.md",
     "Work/Desenvolvimento Web.md",
@@ -217,14 +220,7 @@
     "Desafios/Desafios.md",
     "Sintaxe Básica Java/Sintaxe Java/9 - PrintF.md",
     "Work/Work Planning Swagger.md",
-    "Banco De Dados Relacionais/Modelagem de Dados Relacionais.md",
-    "Teste de Software/Mockito.md",
     "Banco De Dados Relacionais",
-    "Teste de Software/JUnit.md",
-    "Teste de Software/Definição e conceitos básicos.md",
-    "StreamAPI Java/StreamAPI.md",
-    "StreamAPI Java/StreamAPI Java.md",
-    "Progamação Orientada a Objetos/Progamação Orientada a Objetos.md",
     "Imagens/Pasted image 20240918135017.png",
     "Imagens/Pasted image 20240926125752.png",
     "Faculdade",
