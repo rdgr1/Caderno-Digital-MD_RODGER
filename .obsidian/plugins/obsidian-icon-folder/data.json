@@ -85,7 +85,6 @@
     "iconName": "LiBadgeX",
     "iconColor": "#8f0032"
   },
-  "ModsMine": "SiMinecraft",
   "Faculdade": "🧑‍🎓",
   "Banco De Dados Relacionais": {
     "iconName": "LiServer",
@@ -98,10 +97,6 @@
   "Spring": {
     "iconName": "SiSpring",
     "iconColor": "#2c9400"
-  },
-  "Spring/Spring Boot.md": {
-    "iconName": "SiSpringboot",
-    "iconColor": "#ffffff"
   },
   "Work/Desenvolvimento Web.md": {
     "iconName": "SiInternetexplorer",

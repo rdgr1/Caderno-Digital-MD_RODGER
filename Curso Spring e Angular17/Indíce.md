@@ -1,0 +1,16 @@
+## Produtividade de Desenvolvimento com Spring Framework
+- [x] Introdução a Aplicações Rest
+- [x] Introdução a Spring Framework com Spring Boot
+	- [[Spring Framework]]
+	- [[Beans VS Components]]
+	- [[Scopes - Singleton ou Prototype]]
+	- [[Properties]]
+	- [[Conceitos de ORM e JPA]]
+	- [[O Poderoso Repository]]
+	- [[Spring Data JPA]]
+	- [[Conexão PostgreSQL]]
+- [x] Gerenciamento de Dependências com Maven e Gradle
+- [x] Arquitetura de Aplicações Rest com Spring Web
+- [x] Segurança com Spring Security
+- [ ] API REST Documentada com Spring Web e Swagger
+- [ ] 

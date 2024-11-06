@@ -1,8 +1,8 @@
 {
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
   "blue-topaz-theme@@background-settings-workplace-background-image": true,
-  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-dark-sky",
-  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-night-sky",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight",
   "id@@colorblind_protan-deutan": false,
   "id@@h1-underline": true,
   "id@@h2-underline": true,
@@ -17,5 +17,6 @@
   "id@@h4-color-theme@@dark": "#FF4500",
   "id@@h3-color-theme@@dark": "#32CD32",
   "id@@h2-color-theme@@dark": "#4682B4",
-  "id@@h1-color-theme@@dark": "#FF6347"
+  "id@@h1-color-theme@@dark": "#FF6347",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark-custom": "url(\"https://\")"
 }
