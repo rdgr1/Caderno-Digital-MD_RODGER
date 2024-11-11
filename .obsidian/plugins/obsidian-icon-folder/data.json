@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiApple",
-      "SiSpringboot",
-      "SiSpring",
-      "SiInternetexplorer",
-      "LiServer"
+      "SiAngular",
+      "RaAxeSwing",
+      "SiSwagger",
+      "SiSpringsecurity",
+      "SiAmazonsimpleemailservice"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -102,5 +102,24 @@
     "iconName": "SiInternetexplorer",
     "iconColor": "#26bec9"
   },
-  "Apple Academy Study": "SiApple"
+  "Apple Academy Study": "SiApple",
+  "Rest com Spring Web": {
+    "iconName": "SiWebpack",
+    "iconColor": "#4f8d1c"
+  },
+  "FlashCards Java": {
+    "iconName": "SiCoffeescript",
+    "iconColor": "#aeff00"
+  },
+  "MicroService em Spring": "SiMicrosoftsqlserver",
+  "RoadMap Sankhya Developer": "LiSlidersVertical",
+  "Web Components Front-End": "SiInternetexplorer",
+  "TypeScript para Angular": "SiTypescript",
+  "REST SpringWeb e Swagger": "SiSwagger",
+  "Curso Spring e Angular17": "📚",
+  "Linux": "SiLinux",
+  "Decoder 2.0 Spring Microservices Especialista": "SiAmazonsimpleemailservice",
+  "Segurança com Spring Security": "SiSpringsecurity",
+  "Swing": "RaAxeSwing",
+  "Angular 17+": "SiAngular"
 }
