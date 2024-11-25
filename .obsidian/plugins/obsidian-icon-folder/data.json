@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiEmbarcadero",
       "SiAngular",
       "RaAxeSwing",
       "SiSwagger",
-      "SiSpringsecurity",
-      "SiAmazonsimpleemailservice"
+      "SiSpringsecurity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -121,5 +121,6 @@
   "Decoder 2.0 Spring Microservices Especialista": "SiAmazonsimpleemailservice",
   "Segurança com Spring Security": "SiSpringsecurity",
   "Swing": "RaAxeSwing",
-  "Angular 17+": "SiAngular"
+  "Angular 17+": "SiAngular",
+  "Ebac": "SiEmbarcadero"
 }
