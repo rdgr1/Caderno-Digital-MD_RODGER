@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ebac/Projeto 1 - Cadastro Clientes.md",
+                "file": "Ebac/Padrões de Projetos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projeto 1 - Cadastro Clientes"
+              "title": "Padrões de Projetos"
             }
           }
         ]
@@ -189,11 +189,12 @@
   },
   "active": "eafe74fe6173b720",
   "lastOpenFiles": [
-    "Ebac/Tipos complexos.md",
+    "Pasted image 20241106143807.png",
+    "Ebac/Padrões de Projetos.md",
     "Ebac/Projeto 1 - Cadastro Clientes.md",
+    "Ebac/Tipos complexos.md",
     "Diário/Diário.md",
     "Ebac",
-    "Pasted image 20241106143807.png",
     "BancoMalvader/CheckList.md",
     "BancoMalvader/DAOS.md",
     "BancoMalvader/Resumo.md",
@@ -218,8 +219,6 @@
     "TypeScript para Angular/Generics.md",
     "TypeScript para Angular/Tipos no TypeScript.md",
     "TypeScript para Angular/Rodando Type.md",
-    "TypeScript para Angular/TypeScript para Angular.md",
-    "TypeScript para Angular/Funções.md",
     "Swing/Pasted image 20241101202059.png",
     "Swing/LogicScreen_Java.png",
     "Swing/ConncetionFactory.png",
