@@ -40,3 +40,18 @@ public class Wrapper{
 }
 ``` 
 
+# Boxing (Autoboxing)
+Boxing ou Autoboxing é a conversão de tipos primitivos para classes wrappers correspondente
+
+Exemplos 
+```java
+Boolean a = true;
+Byte b = 1;
+Character c = 'c';
+Short s = 1;
+Integer i = 1;
+Long l = 1L;
+Float f = 1.0F;
+Double d = 1.0;
+``` 
+
