@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiOrigami",
       "SiEmbarcadero",
       "SiAngular",
       "RaAxeSwing",
-      "SiSwagger",
-      "SiSpringsecurity"
+      "SiSwagger"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -122,5 +122,7 @@
   "Segurança com Spring Security": "SiSpringsecurity",
   "Swing": "RaAxeSwing",
   "Angular 17+": "SiAngular",
-  "Ebac": "SiEmbarcadero"
+  "Ebac": "SiEmbarcadero",
+  "Origamid": "LiOrigami",
+  "Viagem Chapada": "LiOrigami"
 }
