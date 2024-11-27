@@ -38,3 +38,27 @@ flex-wrap:wrap;
 flex-wrap:wrap-reverse;
 //Quebra as linhas na direcao contraria do wrap
 ```
+
+- *Flex-Flow*
+O flex-flow é um atalho para as propriedades flex-direction e flex-wrap.
+
+```css
+flex-flow: row nowrap;
+// Coloca o conteudo em lnha sem quebrar linha.
+flex-flow: row wrap;
+// Coloca o conteudo em linha quebrando caso estoure a box.
+flex-flow: column nowrap;
+// Coloca o conteudo em coluna.
+```
+
+- *Jusitfy-Content*
+Alinha os itens flex no container de acordo com a direção.
+![[Pasted image 20241127144917.png]]
+- *Align-Itens*
+alinha os itens flex de acordo com o eixo do containter.
+![[Pasted image 20241127145041.png]]
+- *Align-Content*
+Alinha as linhas do container em relação ao eixo vertical. A propriedade só funciona se exisitir mais de uma linha de flex-itens. Para isso flex-wrap precisar ser wrap.
+Além disso o efeito apenas sera visualizado caso o container seja maior que soma das linhas dos itens 
+![[Pasted image 20241127145608.png]]
+
