@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Origamid/Javascript.md",
+                "file": "Spring/Beans VS Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Javascript"
+              "title": "Beans VS Components"
             }
           }
         ]
@@ -189,8 +189,16 @@
   },
   "active": "649d74f5d625be3a",
   "lastOpenFiles": [
-    "Origamid/Flex Item.md",
+    "Spring/Conceitos de ORM e JPA.md",
+    "Spring/Spring Data JPA.md",
+    "Spring/Spring.md",
+    "Spring/Spring Framework.md",
+    "Spring/Scopes - Singleton ou Prototype.md",
+    "Spring/O Poderoso Repository.md",
+    "Spring/Conexão PostgreSQL.md",
+    "Spring/Beans VS Components.md",
     "Origamid/Javascript.md",
+    "Origamid/Flex Item.md",
     "Imagens/Pasted image 20241127153520.png",
     "Imagens/Pasted image 20241127144917.png",
     "Faculdade/Notas.md",
@@ -218,17 +226,9 @@
     "StreamAPI Java/StreamAPI Java.md",
     "Viagem Chapada/Viagem Chapada.md",
     "Viagem Chapada/Custos.md",
-    "Rest com Spring Web/Rest com Spring Web.md",
     "Viagem Chapada",
     "Origamid",
-    "Ebac/Padrões de Projetos.md",
-    "Ebac/Projeto 1 - Cadastro Clientes.md",
-    "Ebac/Tipos complexos.md",
-    "Diário/Diário.md",
     "Ebac",
-    "BancoMalvader/CheckList.md",
-    "BancoMalvader/DAOS.md",
-    "BancoMalvader/Resumo.md",
     "BancoMalvader",
     "BancoMalvader",
     "Angular 17+",
