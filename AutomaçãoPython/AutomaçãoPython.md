@@ -1,7 +1,7 @@
 # AutomaçãoPython Overview
 ## Content:
 - [[PDF]]
-- [[Fluxo]]
+- [[AutomaçãoPython/Fluxo]]
  
 ```ccard
 type: folder_brief_live

@@ -10,7 +10,7 @@ Estudos de ´Progamação´ e ´Faculdade`
 	- [[Plano de Estudos]]
 - [[AutomaçãoPython]]
 	- [[PDF]]
-	- [[Fluxo]]
+	- [[AutomaçãoPython/Fluxo]]
 - [[Desafios]]
 	- - [[Controle de Fluxo - Desafio]]
 	- [[POO - Desafio]]

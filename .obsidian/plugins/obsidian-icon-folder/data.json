@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHeart",
       "RaWifi",
       "LiOrigami",
       "SiEmbarcadero",
-      "SiAngular",
-      "RaAxeSwing"
+      "SiAngular"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -124,5 +124,6 @@
   "Angular 17+": "SiAngular",
   "Ebac": "SiEmbarcadero",
   "Origamid": "LiOrigami",
-  "Trabalho de Redes": "RaWifi"
+  "Trabalho de Redes": "RaWifi",
+  "Gerador de Recibos Mãe": "LiHeart"
 }

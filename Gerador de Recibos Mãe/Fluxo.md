@@ -1,0 +1,11 @@
+## Inputs Pillow:
+- NOTA "DÉBITO ou CRÉDITO" Data Atual MM/YYYY
+- Data Atual DD de mês de YYYY
+- Nome Cliente
+- Endereço Cliente
+- CPF
+- Tipo de Serviço
+- Valor Debito ou Credito
+- Total
+- Valor por Extenso
+- Data de Vencimento
