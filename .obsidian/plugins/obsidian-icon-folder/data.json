@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiApacheparquet",
+      "SiPagerduty",
       "LiHeart",
       "RaWifi",
-      "LiOrigami",
-      "SiEmbarcadero",
-      "SiAngular"
+      "LiOrigami"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -125,5 +125,7 @@
   "Ebac": "SiEmbarcadero",
   "Origamid": "LiOrigami",
   "Trabalho de Redes": "RaWifi",
-  "Gerador de Recibos Mãe": "LiHeart"
+  "Gerador de Recibos Mãe": "LiHeart",
+  "Putty": "SiPagerduty",
+  "Gerador de Recibos Simianer": "SiApacheparquet"
 }
