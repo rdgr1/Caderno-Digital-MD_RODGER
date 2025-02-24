@@ -19,3 +19,4 @@ kill -9 <PID>
 su -l mgeweb /home/mgeweb/wildfly_producao/bin/startServer.sh
 ```
 
+

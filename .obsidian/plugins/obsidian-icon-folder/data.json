@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAccessibility",
       "SiApacheparquet",
       "SiPagerduty",
       "LiHeart",
-      "RaWifi",
-      "LiOrigami"
+      "RaWifi"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -127,5 +127,6 @@
   "Trabalho de Redes": "RaWifi",
   "Gerador de Recibos Mãe": "LiHeart",
   "Putty": "SiPagerduty",
-  "Gerador de Recibos Simianer": "SiApacheparquet"
+  "Gerador de Recibos Simianer": "SiApacheparquet",
+  "Pitch Intant Message Brasfort": "LiAccessibility"
 }

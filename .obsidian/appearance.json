@@ -3,7 +3,7 @@
   "accentColor": "#0058cc",
   "interfaceFontFamily": "SF Pro Display",
   "textFontFamily": "SF Pro Display",
-  "baseFontSize": 18,
+  "baseFontSize": 13,
   "baseFontSizeAction": true,
   "theme": "obsidian"
 }
