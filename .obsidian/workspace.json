@@ -11,10 +11,14 @@
             "id": "16e7db0b11c06fc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ebac/Tipos complexos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tipos complexos"
             }
           }
         ]
@@ -137,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ebac/Tipos complexos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tipos complexos"
             }
           },
           {
@@ -188,6 +193,13 @@
   },
   "active": "16e7db0b11c06fc3",
   "lastOpenFiles": [
+    "Ebac/Padrões de Projetos.md",
+    "Ebac/Ebac.md",
+    "Ebac/Tipos complexos.md",
+    "AutomaçãoPython/AutomaçãoPython.md",
+    "Arquitetura de Software/Arquitetura de Software.md",
+    "Decoder 2.0 Spring Microservices Especialista/Decoder 2.0 Spring Microservices Especialista.md",
+    "Decoder 2.0 Spring Microservices Especialista/Boas Práticas e Padrões de Microservices.md",
     "Moni Integração/Monitoramento Web.md",
     "Moni Integração/Moni Integração.md",
     "MicroService em Spring/MicroService em Spring.md",
@@ -195,7 +207,6 @@
     "Moni Integração",
     "Angular 17+/Estrutura de Projeto Angular.md",
     "Apple Academy Study/Apple Academy Study.md",
-    "AutomaçãoPython/AutomaçãoPython.md",
     "Diário/Diário.md",
     "Alteração Front-End Mattermost/Fluxo.md",
     "Arquitetura de Software/Processo de Software.md",
@@ -213,13 +224,7 @@
     "Portainer/Conexão.md",
     "Portainer/Portainer.md",
     "Portainer",
-    "AutomaçãoPython/Fluxo.md",
-    "AutomaçãoPython/Estrutura Projeto.md",
     "Anexos ETEC 11-2024.xlsx",
-    "Putty/Comandos Putty e Acesso.md",
-    "Putty/Putty.md",
-    "AutomaçãoPython/PDF.md",
-    "Pitch Intant Message Brasfort/Texto Reunião.md",
     "Swing/LogicScreen_Java.png",
     "Swing/Pasted image 20241101202115.png",
     "Swing/Pasted image 20241101202059.png",
