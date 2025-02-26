@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiMattermost",
+      "SiArc",
+      "SiPortainer",
       "LiAccessibility",
-      "SiApacheparquet",
-      "SiPagerduty",
-      "LiHeart",
-      "RaWifi"
+      "SiApacheparquet"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -128,5 +128,8 @@
   "Gerador de Recibos Mãe": "LiHeart",
   "Putty": "SiPagerduty",
   "Gerador de Recibos Simianer": "SiApacheparquet",
-  "Pitch Intant Message Brasfort": "LiAccessibility"
+  "Pitch Intant Message Brasfort": "LiAccessibility",
+  "Portainer": "SiPortainer",
+  "Arquitetura de Software": "SiArc",
+  "Alteração Front-End Mattermost": "SiMattermost"
 }
